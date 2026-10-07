@@ -37,7 +37,7 @@ const dresses = [
     price: "₱200 /3 Days rental",
     tag: "Popular",
     images: [
-     "assets/Andrea/Andrea_01.JPG"
+     "assets/Andrea/andrea_01.JPG"
 
     ]
   },
@@ -115,9 +115,9 @@ const dresses = [
     tag: "Classic",
     description: "",
     images: [
-      "assets/Chandria Pink/Chandria Pink03.WEBP",
+      "assets/Chandria Pink/Chandria Pink03.webp",
       "assets/Chandria Pink/Chandria Pink02.WEBP",
-      "assets/Chandria Pink/Chandria Pink.webp"
+      "assets/Chandria Pink/Chandria Pink.WEBP"
     ]
   },
    {
@@ -190,8 +190,8 @@ const dresses = [
     tag: "New",
     description: "",
     images: [
-      "assets/dANIELLA/Daniella01.JPG",
-            "assets/dANIELLA/Daniella02.JPG"
+      "assets/Daniella/Daniella01.JPG",
+            "assets/Daniella/Daniella02.JPG"
 
    
  
@@ -342,7 +342,7 @@ const dresses = [
     images: [
       "assets/Kaila Pink/Kaila3.JPG",
             "assets/Kaila Pink/Kaila2.JPG",
-                  "assets/Kaila Pink/Kaila3.jpg",
+                  "assets/Kaila Pink/Kaila3.JPG",
       ]
 },
 {
@@ -371,7 +371,7 @@ const dresses = [
     images: [
       "assets/Kathryn/Kathryn3.JPG",
             "assets/Kathryn/Kathryn2.JPG",
-            "assets/Kathryn/Kathryn1.jpg"
+            "assets/Kathryn/Kathryn1.JPG"
       ]
 },
 {id: 27,
@@ -385,7 +385,7 @@ const dresses = [
     images: [
       "assets/Leonida/Leonida2.JPG",
             "assets/Leonida/Leonida1.JPG",
-            "assets/Leonida/Leonida3.jpg"
+            "assets/Leonida/Leonida3.JPG"
       ]
 },
 {id: 28,
@@ -417,12 +417,12 @@ const dresses = [
     category: "Coordinates",
     color: "Pink",
     sizes: "M - L",
-    price: "150 /3 Days rental",
+    price: "550 /3 Days rental",
     tag: "New",
     description: "",
     images: [
-      "assets/Lumi/Lumi1.jpG",
-       "assets/Lumi/Lumi.png",
+      "assets/Lumi/Lumi1.JPG",
+       "assets/Lumi/Lumi.PNG",
       ]
 },
 ,{id: 31,
@@ -434,9 +434,9 @@ const dresses = [
     tag: "New",
     description: "",
     images: [
-      "assets/Merenciana/Merenciana.JPG",
-      "assets/Merenciana/Merenciana1.JPG",
-      "assets/Merenciana/Merenciana2.JPG",
+       "assets/Mariestella/Mariestella1.JPG",
+       "assets/Mariestella/Mariestella2.JPG",
+       "assets/Mariestella/Mariestella3/JPG"
 
       ]
 },
