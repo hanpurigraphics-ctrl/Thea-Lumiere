@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Thea Lumiere Dress Rentals — an elegant online library of dresses available for rent." />
+  <title>Thea Lumiere | Dress Rentals</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&family=DM+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <header class="site-header" id="top">
+    <a class="brand" href="#top" aria-label="Thea Lumiere home">
+      <img src="assets/thea-lumiere-logo.png" alt="Thea Lumiere Dress Rentals logo">
+    </a>
+
+    <nav class="main-nav" aria-label="Main navigation">
+      <a class="active" href="#home">Home</a>
+      <a href="#collection">Collection</a>
+      <a href="#categories">Categories</a>
+      <a href="#about">About</a>
+      <a href="#contact">Contact</a>
+    </nav>
+
+    <a class="header-cta" href="#collection">Browse Dresses</a>
+
+    <button class="menu-toggle" type="button" aria-label="Open menu" aria-expanded="false">
+      <span></span><span></span><span></span>
+    </button>
+  </header>
+
+  <main>
+    <section class="hero" id="home">
+      <div class="hero-glow hero-glow-one"></div>
+      <div class="hero-glow hero-glow-two"></div>
+
+      <div class="hero-copy">
+        <p class="eyebrow">THEA LUMIERE · DRESS RENTALS</p>
+        <h1>Timeless dresses,<br><em>unforgettable moments.</em></h1>
+        <p class="hero-text">
+          Discover an elegant collection of gowns and dresses curated for
+          celebrations, milestones, and every beautiful moment in between.
+        </p>
+        <div class="hero-actions">
+          <a class="button button-primary" href="#collection">Explore Collection</a>
+          <a class="button button-ghost" href="#categories">View Categories</a>
+        </div>
+        <div class="hero-notes">
+          <span>✦ Curated pieces</span>
+          <span>✦ Rental-ready</span>
+          <span>✦ Elegant styling</span>
+        </div>
+      </div>
+
+      <div class="hero-visual">
+       <div class="hero-frame hero-slideshow">
+
+  <img
+    class="hero-slide active"
+    src="cove/cover01.jpg"
+    alt="Elegant pink evening dress"
+  />
+
+  <img
+    class="hero-slide"
+    src="cove/cover02.jpg"
+    alt="Elegant pink evening dress"
+  />
+
+  <div class="hero-dots">
+    <span class="hero-dot active"></span>
+    <span class="hero-dot"></span>
+  </div>
+
+</div>
+        <div class="hero-badge">
+          <span>THEA</span>
+          <strong>LUMIERE</strong>
+          <small>Dress Rentals</small>
+        </div>
+      </div>
+    </section>
+
+    <section class="intro-strip">
+      <div>
+        <span class="strip-number">01</span>
+        <strong>Find your dress</strong>
+        <p>Browse the library by style or occasion.</p>
+      </div>
+      <div>
+        <span class="strip-number">02</span>
+        <strong>View the details</strong>
+        <p>Open any piece to see more photos and information.</p>
+      </div>
+      <div>
+        <span class="strip-number">03</span>
+        <strong>Reserve your look</strong>
+        <p>Message us to check availability and rental details.</p>
+      </div>
+    </section>
+
+    <section class="section categories-section" id="categories">
+      <div class="section-heading centered">
+        <p class="eyebrow">EXPLORE THE LIBRARY</p>
+        <h2>Browse by <em>category</em></h2>
+        <p>Start with an occasion, then find the dress that feels right for you.</p>
+      </div>
+
+      <div class="category-list" id="categoryList">
+        <button class="category-pill active" data-category="All">All Dresses</button>
+        <button class="category-pill" data-category="Cocktail">Cocktail</button>
+        <button class="category-pill" data-category="Long Dress">Long Dress</button>
+        <button class="category-pill" data-category="Coordinates">Coordinates</button>
+      </div>
+    </section>
+
+    <section class="section collection-section" id="collection">
+      <div class="collection-top">
+        <div>
+          <p class="eyebrow">THE DRESS LIBRARY</p>
+          <h2>Pieces made for <em>your moment</em></h2>
+        </div>
+        <p class="collection-count"><span id="dressCount">0</span> pieces</p>
+      </div>
+
+      <div class="dress-grid" id="dressGrid"></div>
+    </section>
+
+    <section class="about-section" id="about">
+      <div class="about-image">
+        <img src="https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?auto=format&fit=crop&w=1000&q=88" alt="Elegant dress collection">
+      </div>
+      <div class="about-copy">
+        <p class="eyebrow">ABOUT THEA LUMIERE</p>
+        <h2>A little <em>lumière</em> for every occasion.</h2>
+        <p>
+          Thea Lumiere is a dress rental library created for women who want
+          beautiful, thoughtfully selected pieces without needing to own every
+          dress they wear.
+        </p>
+        <p>
+          Browse the collection online, open each dress to see more photos,
+          then reach out to us for availability, sizing, rental rates, and
+          reservation details.
+        </p>
+        <a class="text-link" href="#contact">Ask about a dress <span>→</span></a>
+      </div>
+    </section>
+
+    <section class="contact-section" id="contact">
+      <div>
+        <p class="eyebrow">READY FOR YOUR NEXT EVENT?</p>
+        <h2>Let's find your <em>perfect dress.</em></h2>
+        <p>Send us a message with your event date and the dress you love.</p>
+      </div>
+      <a class="button button-primary" href="mailto:hello@thealumiere.com">Contact Thea Lumiere</a>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-brand">
+      <img src="assets/thea-lumiere-logo.png" alt="Thea Lumiere">
+      <p>Dress rentals for beautiful moments.</p>
+    </div>
+    <div class="footer-links">
+      <a href="#collection">Collection</a>
+      <a href="#categories">Categories</a>
+      <a href="#about">About</a>
+      <a href="#contact">Contact</a>
+    </div>
+    <p class="copyright">© <span id="year"></span> Thea Lumiere. All rights reserved.</p>
+  </footer>
+
+  <!-- Dress details modal -->
+  <div class="modal" id="dressModal" aria-hidden="true">
+    <div class="modal-backdrop" data-close-modal></div>
+    <div class="modal-card" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+      <button class="modal-close" type="button" aria-label="Close" data-close-modal>×</button>
+
+      <div class="modal-gallery">
+        <div class="modal-main-image">
+          <img id="modalMainImage" src="" alt="">
+        </div>
+        <div class="modal-thumbs" id="modalThumbs"></div>
+      </div>
+
+      <div class="modal-info">
+        <p class="eyebrow" id="modalCategory"></p>
+        <h2 id="modalTitle"></h2>
+        <p class="modal-description" id="modalDescription"></p>
+
+        <div class="detail-list">
+          <div><span>Color</span><strong id="modalColor"></strong></div>
+          <div><span>Sizes</span><strong id="modalSizes"></strong></div>
+          <div><span>Rental</span><strong id="modalPrice"></strong></div>
+        </div>
+
+     <a
+  class="button button-primary modal-contact"
+  id="modalContact"
+  href="https://www.facebook.com/profile.php?id=61589916311144"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  Inquire About This Dress
+</a>
+        <p class="modal-note">Availability and final rental rates are confirmed upon inquiry.</p>
+      </div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
