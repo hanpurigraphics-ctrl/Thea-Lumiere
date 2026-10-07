@@ -24,8 +24,8 @@ const dresses = [
     tag: "New",
     description:  "",
     images: [
-      "assets/Amelie/Amelie_01.jpg",
-      "assets/Amelie/Amelie.jpg"
+      "assets/Amelie/Amelie_01.JPG",
+      "assets/Amelie/Amelie.JPG"
     ]
   },
   {
@@ -37,13 +37,13 @@ const dresses = [
     price: "₱200 /3 Days rental",
     tag: "Popular",
     images: [
-     "assets/Andrea/Andrea_01.jpg"
+     "assets/Andrea/Andrea_01.JPG"
 
     ]
   },
   {
     id: 4,
-    name: "Amour Tulle",
+    name: "Arabella",
     category: "Cocktail",
     color: "Soft Pink",
     sizes: "XS-Small",
@@ -62,7 +62,7 @@ const dresses = [
     price: "₱500/3 Days rental",
     tag: "New",
     images: [
-      "assets/Aurora/Aurora_01.jpg","assets/Aurora/Aurora_02.jpg"
+      "assets/Aurora/Aurora_01.JPG","assets/Aurora/Aurora_02.JPG"
     ]
   },
   {
@@ -88,7 +88,7 @@ const dresses = [
     tag: "Evening",
     description:"",
     images: [
-      "assets/Celine/Celine01.png", "assets/Celine/celine02.Jpg"]
+      "assets/Celine/Celine01.PNG", "assets/Celine/celine02.JPG"]
   },
   {
     id: 8,
@@ -100,9 +100,9 @@ const dresses = [
     tag: "Classic",
     description: "",
     images: [
-      "assets/Chandria Green/ChandriaGreen01.webp",
-      "assets/Chandria Green/ChandriaGreen02.webp",
-      "assets/Chandria Green/ChandriaGreen03.webp"
+      "assets/Chandria Green/ChandriaGreen01.WEBP",
+      "assets/Chandria Green/ChandriaGreen02.WEBP",
+      "assets/Chandria Green/ChandriaGreen03.WEBP"
     ]
   },
    {
@@ -115,8 +115,8 @@ const dresses = [
     tag: "Classic",
     description: "",
     images: [
-      "assets/Chandria Pink/Chandria Pink03.webp",
-      "assets/Chandria Pink/Chandria Pink02.webp",
+      "assets/Chandria Pink/Chandria Pink03.WEBP",
+      "assets/Chandria Pink/Chandria Pink02.WEBP",
       "assets/Chandria Pink/Chandria Pink.webp"
     ]
   },
@@ -130,7 +130,7 @@ const dresses = [
     tag: "Classic",
     description: "",
     images: [
-      "assets/Chandria Red/ChandriaRed01.jpg",
+      "assets/Chandria Red/ChandriaRed01.JPG",
       "assets/Chandria Red/ChandriaRed02.PNG",
       "assets/Chandria Red/ChandriaRed03.webp"
     ]
@@ -159,7 +159,7 @@ const dresses = [
     tag: "Classic",
     description: "",
     images: [
-      "assets/Dahlia/Dahlia01.jpg",
+      "assets/Dahlia/Dahlia01.JPG",
       "assets/Dahlia/Dahlia02.webp",
       "assets/Dahlia/Dahlia03.webp"
       ]
@@ -174,8 +174,8 @@ const dresses = [
     tag: "Classic",
     description: "",
     images: [
-      "assets/Daisy Belle/DaisyBelle01.jpg",
-      "assets/Daisy Belle/DaisyBelle02.jpg"
+      "assets/Daisy Belle/DaisyBelle01.JPG",
+      "assets/Daisy Belle/DaisyBelle02.JPG"
 
      
       ]
@@ -190,8 +190,8 @@ const dresses = [
     tag: "New",
     description: "",
     images: [
-      "assets/dANIELLA/Daniella01.jpg",
-            "assets/dANIELLA/Daniella02.jpg"
+      "assets/dANIELLA/Daniella01.JPG",
+            "assets/dANIELLA/Daniella02.JPG"
 
    
  
@@ -207,8 +207,8 @@ const dresses = [
     tag: "New",
     description: "",
     images: [
-      "assets/Elixir/Elixir1.jpg",
-      "assets/Elixir/Elixir2.Jpg"
+      "assets/Elixir/Elixir1.JPG",
+      "assets/Elixir/Elixir2.JPG"
       ]
   },
     {
@@ -221,9 +221,9 @@ const dresses = [
     tag: "New",
     description: "",
     images: [
-      "assets/Gabriella Black/Gabriella Black2.webp",
-      "assets/Gabriella Black/Gabriella Black1.webp",
-      "assets/Gabriella Black/Gabriella Black3.webp"
+      "assets/Gabriella Black/Gabriella Black2.WEBP",
+      "assets/Gabriella Black/Gabriella Black1.WEBP",
+      "assets/Gabriella Black/Gabriella Black3.WEBP"
       ]
   },
    {
@@ -236,8 +236,8 @@ const dresses = [
     tag: "New",
     description: "",
     images: [
-      "assets/Gabriella Pink/Gabriella Pink.png",
-      "assets/Gabriella Pink/Gabriella Pink2.png",
+      "assets/Gabriella Pink/Gabriella Pink.PNG",
+      "assets/Gabriella Pink/Gabriella Pink2.PNG",
       "assets/Gabriella Pink/Gabriella Pink3.JPG"
       ]
   },
@@ -327,7 +327,7 @@ const dresses = [
     images: [
       "assets/Kaila Black/Kaila3.webp",
             "assets/Kaila black/Kaila2.webp",
-                  "assets/Kaila Black/Kaila3.jpg",
+                  "assets/Kaila Black/Kaila3.JPG",
       ]
   },
 {
