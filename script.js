@@ -455,7 +455,7 @@ const dresses = [
 
       ]
 },
-,{id: 30,
+,{id: 33,
     name: "Merenciana",
     category: "Coordinates",
     color: "Black, Red",
@@ -469,7 +469,22 @@ const dresses = [
       "assets/Merenciana/Merenciana2.JPG",
 
       ]
+}, ,{id: 34,
+    name: "Merviella Black",
+    category: "Coordinates",
+    color: "Black, Red",
+    sizes: "S - M",
+    price: "550 /3 Days rental",
+    tag: "New",
+    description: "",
+    images: [
+      "assets/Merenciana/Merenciana.JPG",
+      "assets/Merenciana/Merenciana1.JPG",
+      "assets/Merenciana/Merenciana2.JPG",
+
+      ]
 },
+
 
 
 
