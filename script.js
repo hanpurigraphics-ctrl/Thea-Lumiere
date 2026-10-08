@@ -474,7 +474,7 @@ const dresses = [
     description: "",
     images: [
       "assets/MerviellaB/MerviellaB2.webp",
-"assets/MerviellaB/MerviellaB21.JPG",  
+"assets/MerviellaB/MerviellaB1.JPG",  
 
       ]
 },
@@ -514,7 +514,7 @@ const dresses = [
 "assets/MerviellaR/MerviellaR.JPG",  "assets/MerviellaR/MerviellaR1.JPG",  "assets/MerviellaR/MerviellaR2.JPG",
   ]
 },
-{id: 36,
+{id: 38,
     name: "Mia Set",
     category: "Coordinates",
     color: "Blue",
@@ -524,7 +524,290 @@ const dresses = [
     description: "",
     images: [
 "assets/Mia Set/Mia Set.jpg", "assets/Mia Set/Mia Set1.jpg",   ]
+},
+{id: 39,
+    name: "Mika Blue",
+    category: "Coordinates",
+    color: "Blue",
+    sizes: "M",
+    price: "600 /3 Days rental",
+    tag: "New",
+    description: "",
+    images: [
+"assets/Mika Blue/Mika Blue1.JPG", "assets/Mika Blue/Mika Blue2.JPG",   ]
 }
+,
+{id: 40,
+    name: "Mika White",
+    category: "Coordinates",
+    color: "White",
+    sizes: "L",
+    price: "600 /3 Days rental",
+    tag: "New",
+    description: "",
+    images: [
+"assets/Mika White/Mika White.JPG", "assets/Mika White/Mika White2.WEBP",   ]
+}
+,
+{id: 41,
+    name: "Neriel",
+    category: "Coordinates",
+    color: "Red",
+    sizes: "M - Semi Large",
+    price: "150 /3 Days rental",
+    tag: "New",
+    description: "",
+    images: [
+"assets/Neriel/Neriel.JPG", ]
+},
+{id: 42,
+    name: "Olivia",
+    category: "Coordinates",
+    color: "Red",
+    sizes: "M - L",
+    price: "550 /3 Days rental",
+    tag: "New",
+    description: "",
+    images: [
+"assets/Olivia/Olivia2.webp","assets/Olivia/Olivia1.webp","assets/Olivia/Olivia.webp", ]
+},
+{id: 43,
+    name: "Luna",
+    category: "Coordinates",
+    color: "Pearl",
+    sizes: "S",
+    price: "150 /3 Days rental",
+    tag: "New",
+    description: "",
+    images: [
+"assets/Others150/Luna_Small.JPG"
+    ]    },
+{id: 44,
+    name: "Leila",
+    category: "Coordinates",
+    color: "Shades of Brown",
+    sizes: "S",
+    price: "150 /3 Days rental",
+    tag: "New",
+    description: "",
+    images: [
+"assets/Others150/Leila_Small.JPG"
+]},
+{id: 45,
+    name: "Riana",
+    category: "Coordinates",
+    color: "Pearl",
+    sizes: "M",
+    price: "150 /3 Days rental",
+    tag: "New",
+    description: "",
+    images: [
+"assets/Others150/Riana_M.JPG"
+]},
+{id: 46,
+    name: "Riana",
+    category: "Coordinates",
+    color: "Green",
+    sizes: "S",
+    price: "200 /3 Days rental",
+    tag: "New",
+    description: "",
+    images: [
+"assets/Others200/Dea_S.JPG"
+]},
+{id: 47,
+    name: "Riana",
+    category: "Coordinates",
+    color: "Yellow",
+    sizes: "S",
+    price: "200 /3 Days rental",
+    tag: "New",
+    description: "",
+    images: [
+"assets/Others200/Eula_S.JPG"
+]},
+{id: 48,
+    name: "Zara",
+    category: "Coordinates",
+    color: "Red",
+    sizes: "S",
+    price: "200 /3 Days rental",
+    tag: "New",
+    description: "",
+    images: [
+"assets/Others200/Zara_S.JPG"
+]}
+,
+{id: 49,
+    name: "Pia",
+    category: "Coordinates",
+    color: "Red",
+    sizes: "M",
+    price: "350/3 Days rental",
+    tag: "New",
+    description: "",
+    images: [
+"assets/Pia/Pia.WEBP","assets/Pia/Pia1.WEBP","assets/Pia/Pia2.WEBP"
+]},
+{id: 50,
+    name: "Pia",
+    category: "Coordinates",
+    color: "Red",
+    sizes: "XS - S",
+    price: "150/3 Days rental",
+    tag: "New",
+    description: "",
+    images: [
+"assets/Rosalie/Rosalie2.JPG","assets/Rosalie/Rosalie.JPG"]}
+
+,
+{id: 51,
+    name: "Ruby Black",
+    category: "Cocktail",
+    color: "Black",
+    sizes: "M -L",
+    price: "600/3 Days rental",
+    tag: "New",
+    description: "",
+    images: [
+"assets/Ruby Black/Ruby B2.webp",
+"assets/Ruby Black/Ruby B1.webp",
+"assets/Ruby Black/Ruby B.webp",
+"assets/Ruby Black/Ruby B3.webp",
+]},
+{id: 52,
+    name: "Ruby Red",
+    category: "Cocktail",
+    color: "Red",
+    sizes: "M -L",
+    price: "600/3 Days rental",
+    tag: "New",
+    description: "",
+    images: [
+"assets/Ruby Red/Ruby Red.JPG",
+"assets/Ruby Red/Ruby Red2.webp",
+"assets/Ruby Black/Ruby Red3.webp",
+]}
+
+,
+{id: 54,
+    name: "Sephora",
+    category: "Cocktail",
+    color: "Red",
+    sizes: "M",
+    price: "450/3 Days rental",
+    tag: "New",
+    description: "",
+    images: [
+"assets/Sephora/Sephora1.JPG",
+"assets/Sephora/Sephora2.JPG",
+]}
+,
+{id: 55,
+    name: "Serena Set",
+    category: "Coordinates",
+    color: "Blue",
+    sizes: "M",
+    price: "200/3 Days rental",
+    tag: "New",
+    description: "",
+    images: [
+"assets/Serena Set/Serena Set2.JPG",
+"assets/Serena Set/Serena Set.JPG",
+]}
+,
+{id: 56,
+    name: "Sofia",
+    category: "Cocktail",
+    color: "Red",
+    sizes: "S - Semi M",
+    price: "200/3 Days rental",
+    tag: "New",
+    description: "",
+    images: [
+"assets/Sofia/Sofia.webp",
+"assets/Sofia/Sofia3.webp",
+"assets/Sofia/Sofia2.webp"
+]}
+,
+{id: 57,
+    name: "Stella",
+    category: "Cocktail",
+    color: "Yellow",
+    sizes: "S - M",
+    price: "250/3 Days rental",
+    tag: "New",
+    description: "",
+    images: [
+"assets/Stella/Stella.JPG",
+]},
+{id: 58,
+    name: "Thea Set",
+    category: "Coordinates",
+    color: "Gray",
+    sizes: "L",
+    price: "300/3 Days rental",
+    tag: "New",
+    description: "",
+    images: [
+"assets/Thea Set/Thea Set1.JPG","assets/Thea Set/Thea Set2.JPG",
+]},
+{id: 59,
+    name: "Valentina",
+    category: "Cocktail",
+    color: "Red",
+    sizes: "XS - S ",
+    price: "300/3 Days rental",
+    tag: "New",
+    description: "",
+    images: [
+"assets/Valentina/Valentina1.webp", "assets/Valentina/Valentina.JPG","assets/Valentina/Valentina2.JPG"]}
+
+,
+{id: 60,
+    name: "Vea Black",
+    category: "Cocktail",
+    color: "Black",
+    sizes: "S - M ",
+    price: "350/3 Days rental",
+    tag: "New",
+    description: "",
+    images: [
+"assets/Vea Black/Vea Black.JPG", 
+"assets/Vea Black/Vea Black2.JPG", 
+"assets/Vea Black/Vea Black3.JPG", 
+]},
+{id: 61,
+    name: "Vea Red",
+    category: "Cocktail",
+    color: "Red",
+    sizes: "S - M ",
+    price: "350/3 Days rental",
+    tag: "New",
+    description: "",
+    images: [
+"assets/Vea Red/Vea Red2.JPG", 
+"assets/Vea Red/Vea Red.JPG", 
+"assets/Vea Red/Vea Red3.JPG", 
+]}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
