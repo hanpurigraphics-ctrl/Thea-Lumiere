@@ -842,7 +842,7 @@ const dresses = [
     ]},
 {id: 66,
     name: "Zebbiana Blue",
-    category: "Cocktail",
+    category: "Long Dress",
     color: "Blue",
     sizes: "XL",
     price: "550/3 Days rental",
@@ -854,32 +854,34 @@ const dresses = [
 "assets/Zebbiana Blue/Zebbiana Blue.webp",
 
 ]},
-{id: 66,
-    name: "Zebbiana Blue",
-    category: "Cocktail",
-    color: "Red",
+{id: 67,
+    name: "Zebbiana Pink",
+    category: "Long Dress",
+    color: "Pink",
     sizes: "XL",
     price: "550/3 Days rental",
     tag: "New",
     description: "",
     images: [
-"assets/Zebbiana Blue/Zebbiana Blue2.webp",
-"assets/Zebbiana Blue/Zebbiana Blue.PNG",
-"assets/Zebbiana Blue/Zebbiana Blue.webp",
+"assets/Zebbiana Pink/Zebbiana Pink.webp",
+"assets/Zebbiana Pink/Zebbiana Pink.JPG",
+"assets/Zebbiana Pink/Zebbiana Pink2.JPG",
 
 ]},
-{id: 66,
-    name: "Zebbiana Blue",
-    category: "Cocktail",
-    color: "Red",
-    sizes: "XL",
+{id: 68,
+    name: "Zebbiana White",
+    category: "Long Dress",
+    color: "RWhiteed",
+    sizes: "M - L",
     price: "550/3 Days rental",
     tag: "New",
     description: "",
     images: [
-"assets/Zebbiana Blue/Zebbiana Blue2.webp",
-"assets/Zebbiana Blue/Zebbiana Blue.PNG",
-"assets/Zebbiana Blue/Zebbiana Blue.webp",
+"assets/Zebbiana White/Zebbiana White3.JPG",
+"assets/Zebbiana White/Zebbiana White2.JPG",
+"assets/Zebbiana White/Zebbiana White.JPG",
+
+
 
 ]}
 
