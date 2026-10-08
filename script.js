@@ -321,7 +321,7 @@ const dresses = [
     category: "Coordinates",
     color: "Black",
     sizes: "M - L",
-    price: "550 /3 Days rental",
+    price: "600 /3 Days rental",
     tag: "New",
     description: "",
     images: [
@@ -336,7 +336,7 @@ const dresses = [
     category: "Coordinates",
     color: "Pink",
     sizes: "S - M",
-    price: "550 /3 Days rental",
+    price: "600 /3 Days rental",
     tag: "New",
     description: "",
     images: [
@@ -351,7 +351,7 @@ const dresses = [
     category: "Coordinates",
     color: "Red",
     sizes: "M - L",
-    price: "550 /3 Days rental",
+    price: "600 /3 Days rental",
     tag: "New",
     description: "",
     images: [
@@ -425,7 +425,7 @@ const dresses = [
        "assets/Lumi/Lumi.PNG",
       ]
 },
-,{id: 31,
+{id: 31,
     name: "Mariestella",
     category: "Coordinates",
     color: "Black, Red",
@@ -434,27 +434,23 @@ const dresses = [
     tag: "New",
     description: "",
     images: [
-       "assets/Mariestella/Mariestella1.JPG",
        "assets/Mariestella/Mariestella2.JPG",
-       "assets/Mariestella/Mariestella3/JPG"
-
-      ]
-},
-,{id: 32,
+       "assets/Mariestella/Mariestella1.JPG",
+       "assets/Mariestella/Mariestella3.JPG"
+      ]},
+{id: 32,
     name: "Merdissa",
     category: "Coordinates",
     color: "Black, Red",
-    sizes: "S - M",
-    price: "150 /3 Days rental",
+    sizes: "M",
+    price: "200 /3 Days rental",
     tag: "New",
     description: "",
     images: [
-      "assets/Merenciana/Merenciana.JPG",
-      "assets/Merenciana/Merenciana1.JPG",
-      "assets/Merenciana/Merenciana2.JPG",
-
+      "assets/Merdissa/Merdissa.JPG",
+      "assets/Merdissa/Merdissa2.JPG",
       ]
-},
+}
 ,{id: 33,
     name: "Merenciana",
     category: "Coordinates",
@@ -466,24 +462,70 @@ const dresses = [
     images: [
       "assets/Merenciana/Merenciana.JPG",
       "assets/Merenciana/Merenciana1.JPG",
-      "assets/Merenciana/Merenciana2.JPG",
+      "assets/Merenciana/Merenciana2.JPG", ]}
 
-      ]
-}, ,{id: 34,
+      , {id: 34,
     name: "Merviella Black",
     category: "Coordinates",
-    color: "Black, Red",
+    color: "Black",
     sizes: "S - M",
     price: "550 /3 Days rental",
     tag: "New",
     description: "",
     images: [
-      "assets/Merenciana/Merenciana.JPG",
-      "assets/Merenciana/Merenciana1.JPG",
-      "assets/Merenciana/Merenciana2.JPG",
+      "assets/MerviellaB/MerviellaB2.webp",
+"assets/MerviellaB/MerviellaB21.JPG",  
 
       ]
 },
+{id: 37,
+    name: "Merviella Green",
+    category: "Coordinates",
+    color: "Green",
+    sizes: "XL",
+    price: "550 /3 Days rental",
+    tag: "New",
+    description: "",
+    images: [
+"assets/MerviellaG/MerviellaG1.JPG", "assets/MerviellaG/MerviellaG.JPG", "assets/MerviellaG/MerviellaG2.JPG", 
+  ]
+},
+{id: 35,
+    name: "Merviella Pink",
+    category: "Coordinates",
+    color: "Pink",
+    sizes: "L",
+    price: "550 /3 Days rental",
+    tag: "New",
+    description: "",
+    images: [
+"assets/MerviellaP/MerviellaPink2.JPG",  "assets/MerviellaP/MerviellaPink.JPG",  "assets/MerviellaP/MerviellaPink3.JPG",
+  ]
+},
+{id: 36,
+    name: "Merviella Red",
+    category: "Coordinates",
+    color: "Red",
+    sizes: "S - M",
+    price: "550 /3 Days rental",
+    tag: "New",
+    description: "",
+    images: [
+"assets/MerviellaR/MerviellaR.JPG",  "assets/MerviellaR/MerviellaR1.JPG",  "assets/MerviellaR/MerviellaR2.JPG",
+  ]
+},
+{id: 36,
+    name: "Mia Set",
+    category: "Coordinates",
+    color: "Blue",
+    sizes: "M - Semi Large",
+    price: "450 /3 Days rental",
+    tag: "New",
+    description: "",
+    images: [
+"assets/Mia Set/Mia Set.jpg", "assets/Mia Set/Mia Set1.jpg",   ]
+}
+
 
 
 
