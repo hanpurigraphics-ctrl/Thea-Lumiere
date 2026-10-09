@@ -523,7 +523,7 @@ const dresses = [
     tag: "New",
     description: "",
     images: [
-"assets/Mia Set/Mia Set.jpg", "assets/Mia Set/Mia Set1.jpg",   ]
+"assets/Mia Set/Mia Set.JPG", "assets/Mia Set/Mia Set1.JPG",   ]
 },
 {id: 39,
     name: "Mika Blue",
