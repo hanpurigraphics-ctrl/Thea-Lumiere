@@ -70,7 +70,7 @@ const dresses = [
   {
     id: 110,
     name: "Britney",
-    category: " ",
+    category: "Long Dress",
     color: "",
     sizes: "1XL",
     price: "₱550/3 Days rental",
@@ -340,7 +340,7 @@ const dresses = [
   {
     id: 115,
     name: "Dale",
-    category: "",
+    category: "Cocktail",
     color: "",
     sizes: "M ",
     price: "₱500 /3 Days rental",
@@ -413,7 +413,7 @@ const dresses = [
   {
     id: 118,
     name: "Flora",
-    category: "",
+    category: "Cocktail",
     color: "",
     sizes: "S - Semi M",
     price: "₱550 /3 Days rental",
@@ -429,7 +429,7 @@ const dresses = [
   {
     id: 16,
     name: "Gabriella Black",
-    category: "Coordinates",
+    category: "Long Dress",
     color: "Black",
     sizes: "M - L",
     price: "₱500 /3 Days rental",
@@ -444,7 +444,7 @@ const dresses = [
   {
     id: 17,
     name: "Gabriella Pink",
-    category: "Coordinates",
+    category: "Long Dress",
     color: "Pink",
     sizes: "L",
     price: "₱500 /3 Days rental",
@@ -459,7 +459,7 @@ const dresses = [
   {
     id: 18,
     name: "Gabriella White",
-    category: "Coordinates",
+    category: "Long Dress",
     color: "Black",
     sizes: "M - L",
     price: "₱500 /3 Days rental",
@@ -519,7 +519,7 @@ const dresses = [
   {
     id: 84,
     name: "Honey Pink",
-    category: "Cocktail",
+    category: "Long Dress",
     color: "Pink",
     sizes: "L - Semi Xl",
     price: "₱550 /3 Days rental",
@@ -533,7 +533,7 @@ const dresses = [
   {
     id: 85,
     name: "Honey Yellow",
-    category: "Cocktail",
+    category: "Long Dress",
     color: "Yellow",
     sizes: "L - Semi Xl",
     price: "₱550 /3 Days rental",
@@ -549,7 +549,7 @@ const dresses = [
   {
     id: 120,
     name: "Honey White",
-    category: "Cocktail",
+    category: "Long Dress",
     color: "Yellow",
     sizes: "XL",
     price: "₱550 /3 Days rental",
@@ -828,7 +828,7 @@ const dresses = [
   {
     id: 31,
     name: "Mariestella Blue",
-    category: "Coordinates",
+    category: "Long Dress",
     color: "Blue",
     sizes: "M - Semi large",
     price: "550 /3 Days rental",
@@ -843,7 +843,7 @@ const dresses = [
   {
     id: 122,
     name: "Mariestella Green",
-    category: "Coordinates",
+    category: "Long Dress",
     color: "Blue",
     sizes: "M - Semi large",
     price: "550 /3 Days rental",
@@ -955,7 +955,7 @@ const dresses = [
   {
     id: 39,
     name: "Mika Blue",
-    category: "Coordinates",
+    category: "Long Dress",
     color: "Blue",
     sizes: "M",
     price: "600 /3 Days rental",
@@ -968,7 +968,7 @@ const dresses = [
   {
     id: 40,
     name: "Mika White",
-    category: "Coordinates",
+    category: "CoLong Dressordinates",
     color: "White",
     sizes: "L",
     price: "600 /3 Days rental",
@@ -981,7 +981,7 @@ const dresses = [
   {
     id: 130,
     name: "Mika Green",
-    category: "Coordinates",
+    category: "Long Dress",
     color: "Green ",
     sizes: "L",
     price: "600 /3 Days rental",
@@ -1009,7 +1009,7 @@ const dresses = [
   {
     id: 132,
     name: "Nina",
-    category: "",
+    category: "Cocktail",
     color: "",
     sizes: "XS - S",
     price: "500 /3 Days rental",
@@ -1274,7 +1274,23 @@ const dresses = [
       "assets/Sephora/Sephora1.JPG",
       "assets/Sephora/Sephora2.JPG",
     ]
-  }
+  } ,{
+    id: 200,
+    name: "Seraphina",
+    category: "Cocktail",
+    color: "Blue",
+    sizes: "XS - S",
+    price: "200/3 Days rental",
+    tag: "New",
+    description: "",
+    images: [
+      "assets/Seraphina/Seraphina.WEBP",
+      "assets/Seraphina/Seraphina2.WEBP",
+      "assets/Seraphina/Seraphina3.WEBP",
+      "assets/Seraphina/Seraphina4.WEBP",
+   
+    ]
+  },
   ,
   {
     id: 55,
