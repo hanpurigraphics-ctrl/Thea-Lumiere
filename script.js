@@ -67,7 +67,7 @@ const dresses = [
       "assets/Aurora/Aurora_01.JPG", "assets/Aurora/Aurora_02.JPG"
     ]
   },
-   {
+  {
     id: 110,
     name: "Britney",
     category: " ",
@@ -169,7 +169,7 @@ const dresses = [
     images: [
       "assets/Celine/Celine01.PNG", "assets/Celine/celine02.JPG"]
   },
-   {
+  {
     id: 111,
     name: "Chandria Black",
     category: "Cocktail ",
@@ -179,10 +179,10 @@ const dresses = [
     tag: "Classic",
     description: "",
     images: [
-       "assets/Chandria Black/Chandria Black.WEBP",
-       "assets/Chandria Black/Chandria Black2.WEBP",
-       "assets/Chandria Black/Chandria Black3.WEBP",
-      ]
+      "assets/Chandria Black/Chandria Black.WEBP",
+      "assets/Chandria Black/Chandria Black2.WEBP",
+      "assets/Chandria Black/Chandria Black3.WEBP",
+    ]
   },
   {
     id: 75,
@@ -194,10 +194,10 @@ const dresses = [
     tag: "Classic",
     description: "",
     images: [
-       "assets/ChandriaB/ChandriaB3.PNG",
+      "assets/ChandriaB/ChandriaB3.PNG",
       "assets/ChandriaB/ChandriaB.WEBP",
       "assets/ChandriaB/ChandriaB2.WEBP",
-     
+
 
     ]
   },
@@ -290,7 +290,7 @@ const dresses = [
       "assets/Coco Set/CocoSet01.JPG"
     ]
   },
-   {
+  {
     id: 78,
     name: "Corset Tops",
     category: "",
@@ -301,8 +301,8 @@ const dresses = [
     description: "",
     images: [
       "assets/Corset/C1.PNG",
-            "assets/Corset/C2.PNG",
-                  "assets/Corset/C3.PNG",
+      "assets/Corset/C2.PNG",
+      "assets/Corset/C3.PNG",
 
 
 
@@ -337,7 +337,7 @@ const dresses = [
       "assets/Daisy Belle/DaisyBelle02.JPG",
     ]
   },
-   {
+  {
     id: 115,
     name: "Dale",
     category: "",
@@ -365,7 +365,7 @@ const dresses = [
       "assets/Daniella/Daniella02.JPG"
     ],
   },
-{
+  {
     id: 79,
     name: "Elise",
     category: "Cocktail ",
@@ -376,8 +376,8 @@ const dresses = [
     description: "",
     images: [
       "assets/Elise/Elise.PNG",
-            "assets/Elise/Elise2.PNG",
-                  "assets/Elise/Elise3.JPG",
+      "assets/Elise/Elise2.PNG",
+      "assets/Elise/Elise3.JPG",
 
 
     ],
@@ -410,7 +410,7 @@ const dresses = [
       "assets/Febie/Febie.WEBP"
     ]
   },
-    {
+  {
     id: 118,
     name: "Flora",
     category: "",
@@ -422,7 +422,7 @@ const dresses = [
     images: [
       "assets/Flora/Flora.jpeg",
       "assets/Flora/Flora2.jpeg",
-     "assets/Flora/Flora3.jpeg",
+      "assets/Flora/Flora3.jpeg",
       "assets/Flora/Flora4.jpeg"
     ]
   },
@@ -482,8 +482,8 @@ const dresses = [
     description: "",
     images: [
       "assets/Glorie Brown/Glorie Brown.webp",
-"assets/Glorie Brown/Glorie Brown2.webp",
-"assets/Glorie Brown/Glorie Brown3.webp",
+      "assets/Glorie Brown/Glorie Brown2.webp",
+      "assets/Glorie Brown/Glorie Brown3.webp",
     ]
   },
   {
@@ -497,10 +497,10 @@ const dresses = [
     description: "",
     images: [
       "assets/Glorie Maroon/Glorie Maroon.webp",
-"assets/Glorie Maroon/Glorie Maroon2.webp",
+      "assets/Glorie Maroon/Glorie Maroon2.webp",
 
     ]
-    
+
   },
   {
     id: 83,
@@ -512,10 +512,11 @@ const dresses = [
     tag: "New",
     description: "",
     images: [
-       "assets/Grace/Grace.PNG",
+      "assets/Grace/Grace.PNG",
       "assets/Grace/Grace.JPG",
-    ]  },
-     {
+    ]
+  },
+  {
     id: 84,
     name: "Honey Pink",
     category: "Cocktail",
@@ -525,10 +526,11 @@ const dresses = [
     tag: "New",
     description: "",
     images: [
-       "assets/Honey Pink/Honey Pink2.JPG",
+      "assets/Honey Pink/Honey Pink2.JPG",
       "assets/Honey Pink/Honey Pink.JPG",
-    ]  },
-      {
+    ]
+  },
+  {
     id: 85,
     name: "Honey Yellow",
     category: "Cocktail",
@@ -538,12 +540,13 @@ const dresses = [
     tag: "New",
     description: "",
     images: [
-       "assets/Honey Yellow/Honey Yellow.webp",
+      "assets/Honey Yellow/Honey Yellow.webp",
       "assets/Honey Yellow/Honey Yellow2.webp",
       "assets/Honey Yellow/Honey Yellow3.webp",
-    ]  },
-  
-    {
+    ]
+  },
+
+  {
     id: 120,
     name: "Honey White",
     category: "Cocktail",
@@ -553,13 +556,14 @@ const dresses = [
     tag: "New",
     description: "",
     images: [
-       "assets/Honey White/Honey White.JPG",
-       "assets/Honey White/Honey White.webp",
-       "assets/Honey White/Honey White2.webp",
+      "assets/Honey White/Honey White.JPG",
+      "assets/Honey White/Honey White.webp",
+      "assets/Honey White/Honey White2.webp",
 
-    ]  },
+    ]
+  },
 
-    {
+  {
     id: 19,
     name: "Janella",
     category: "Cocktail",
@@ -599,8 +603,8 @@ const dresses = [
     description: "",
     images: [
       "assets/Jella/Jella3.PNG",
-   "assets/Jella/Jella.PNG",
-   "assets/Jella/Jella2.PNG",
+      "assets/Jella/Jella.PNG",
+      "assets/Jella/Jella2.PNG",
     ]
   },
   {
@@ -673,7 +677,7 @@ const dresses = [
       "assets/Julia Pink/Julia Pink.WEBP",
       "assets/Julia Pink/Julia Pink2.WEBP",
       "assets/Julia Pink/Julia Pink3.WEBP",
-            "assets/Julia Pink/Julia Pink4.WEBP",
+      "assets/Julia Pink/Julia Pink4.WEBP",
 
     ]
   },
@@ -736,7 +740,7 @@ const dresses = [
       "assets/Kathryn/Kathryn1.JPG"
     ]
   },
-    {
+  {
     id: 91,
     name: "Kendra",
     category: "Long Dress",
@@ -750,7 +754,7 @@ const dresses = [
       "assets/Kendra/Kendra.PNG",
     ]
   },
-   {
+  {
     id: 91,
     name: "Krishna",
     category: "Long Dress",
@@ -762,8 +766,8 @@ const dresses = [
     images: [
       "assets/Krishna/Krishna.webp",
       "assets/Krishna/Krishna2.webp",
-            "assets/Krishna/Krishna3.webp",
-      
+      "assets/Krishna/Krishna3.webp",
+
     ]
   },
   {
@@ -836,7 +840,7 @@ const dresses = [
       "assets/Mariestella/Mariestella3.JPG"
     ]
   },
-   {
+  {
     id: 122,
     name: "Mariestella Green",
     category: "Coordinates",
@@ -988,7 +992,7 @@ const dresses = [
       "assets/Mika Green/Mika Green2.jpeg",
       "assets/Mika Green/Mika Green3.jpeg",]
   }
-  
+
   ,
   {
     id: 41,
@@ -1001,6 +1005,22 @@ const dresses = [
     description: "",
     images: [
       "assets/Neriel/Neriel.JPG",]
+  },
+  {
+    id: 132,
+    name: "Nina",
+    category: "",
+    color: "",
+    sizes: "XS - S",
+    price: "500 /3 Days rental",
+    tag: "New",
+    description: "",
+    images: [
+      "assets/Nina/Nina.WEBP",
+      "assets/Nina/Nina2.WEBP",
+      "assets/Nina/Nina3.WEBP",
+
+    ]
   },
   {
     id: 42,
@@ -1093,7 +1113,7 @@ const dresses = [
     ]
   }
   ,
-    {
+  {
     id: 93,
     name: "Pia Black",
     category: "Coordinates",
@@ -1103,9 +1123,9 @@ const dresses = [
     tag: "New",
     description: "",
     images: [
-      "assets/Pia Black/Pia Black.webp", 
-      "assets/Pia Black/Pia Black2.webp", 
-      "assets/Pia Black/Pia Black3.webp", 
+      "assets/Pia Black/Pia Black.webp",
+      "assets/Pia Black/Pia Black2.webp",
+      "assets/Pia Black/Pia Black3.webp",
 
     ]
   },
@@ -1133,9 +1153,9 @@ const dresses = [
     description: "",
     images: [
       "assets/Pia White/Pia White.JPG",
-       "assets/Pia White/Pia White.webp",
-        "assets/Pia White/Pia White2.webp",
-         "assets/Pia White/Pia White3.webp",
+      "assets/Pia White/Pia White.webp",
+      "assets/Pia White/Pia White2.webp",
+      "assets/Pia White/Pia White3.webp",
     ]
   },
   {
@@ -1150,7 +1170,7 @@ const dresses = [
     images: [
       "assets/Rosalie/Rosalie2.JPG", "assets/Rosalie/Rosalie.JPG"]
   },
-{
+  {
     id: 96,
     name: "Rose",
     category: "Coordinates",
@@ -1205,9 +1225,9 @@ const dresses = [
     description: "",
     images: [
       "assets/Samantha/Samantha.webp",
-       "assets/Samantha/Samantha2.webp",
-        "assets/Samantha/Samantha.PNG",
-     
+      "assets/Samantha/Samantha2.webp",
+      "assets/Samantha/Samantha.PNG",
+
     ]
   },
   {
@@ -1221,11 +1241,11 @@ const dresses = [
     description: "",
     images: [
       "assets/Sandra/Sandra.webp",
-       "assets/Sandra/Sandra.JPG",
-   "assets/Sandra/Sandra2.JPG",     
+      "assets/Sandra/Sandra.JPG",
+      "assets/Sandra/Sandra2.JPG",
     ]
   },
-    {
+  {
     id: 100,
     name: "Scarlett",
     category: "Cocktail",
@@ -1236,8 +1256,8 @@ const dresses = [
     description: "",
     images: [
       "assets/Scarlett/Scarlett2.JPG",
-       "assets/Scarlett/Scarlett.JPG",
-   "assets/Scarlett/Scarlett.PNG",     
+      "assets/Scarlett/Scarlett.JPG",
+      "assets/Scarlett/Scarlett.PNG",
     ]
   }
   ,
@@ -1281,7 +1301,7 @@ const dresses = [
     description: "",
     images: [
       "assets/Solenn/Solenn.JPG",
-            "assets/Solenn/Solenn2.JPG",
+      "assets/Solenn/Solenn2.JPG",
       "assets/Solenn/Solenn3.JPG",
     ]
   }
@@ -1371,7 +1391,24 @@ const dresses = [
       "assets/Vea Red/Vea Red.JPG",
       "assets/Vea Red/Vea Red3.JPG",
     ]
-  }, {
+  },
+  {
+    id: 135,
+    name: "Vea Beige",
+    category: "Cocktail",
+    color: "Beige",
+    sizes: "S - M ",
+    price: "350/3 Days rental",
+    tag: "New",
+    description: "",
+    images: [
+      "assets/Vea Beige/Vea Beige.WEBP",
+      "assets/Vea Beige/Vea Beige2.WEBP",
+      "assets/Vea Beige/Vea Beige3.WEBP",
+      "assets/Vea Beige/Vea Beige4.WEBP",
+    ]
+  },
+  {
     id: 103,
     name: "Victoria",
     category: "Coordinates",
@@ -1381,7 +1418,7 @@ const dresses = [
     tag: "New",
     description: "",
     images: [
-      "assets/Victoria/Victoria4.webp","assets/Victoria/Victoria.webp","assets/Victoria/Victoria2.webp","assets/Victoria/Victoria3.webp",
+      "assets/Victoria/Victoria4.webp", "assets/Victoria/Victoria.webp", "assets/Victoria/Victoria2.webp", "assets/Victoria/Victoria3.webp",
     ]
   },
   {
@@ -1488,46 +1525,7 @@ const dresses = [
       "assets/Zebbiana White/Zebbiana White2.JPG",
       "assets/Zebbiana White/Zebbiana White.JPG",
     ]
-  },
-
-  {
-    id: 69,
-    name: "Zebbiana White",
-    category: "Long Dress",
-    color: "RWhiteed",
-    sizes: "M - L",
-    price: "550/3 Days rental",
-    tag: "New",
-    description: "",
-    images: [
-      "assets/Zebbiana White/Zebbiana White3.JPG",
-      "assets/Zebbiana White/Zebbiana White2.JPG",
-      "assets/Zebbiana White/Zebbiana White.JPG",
-    ]
   }
-  ,
-
-  {
-    id: 70,
-    name: "Zebbiana White",
-    category: "Long Dress",
-    color: "RWhiteed",
-    sizes: "M - L",
-    price: "550/3 Days rental",
-    tag: "New",
-    description: "",
-    images: [
-      "assets/Zebbiana White/Zebbiana White3.JPG",
-      "assets/Zebbiana White/Zebbiana White2.JPG",
-      "assets/Zebbiana White/Zebbiana White.JPG",
-    ]
-  }
-
-
-
-
-
-
 ];
 
 const dressGrid = document.getElementById("dressGrid");
