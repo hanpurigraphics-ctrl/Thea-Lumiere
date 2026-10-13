@@ -139,10 +139,10 @@ const dresses = [
     tag: "New",
     description: "",
     images: [
-      "assets/CelestineP/CelestineP.Webp",
-      "assets/CelestineP/CelestineP2.Webp",
-      "assets/CelestineP/CelestineP3.Webp",
-      "assets/CelestineP/CelestineP4.Webp",
+      "assets/CelestineP/CelestineP.webp",
+      "assets/CelestineP/CelestineP2.webp",
+      "assets/CelestineP/CelestineP3.webp",
+      "assets/CelestineP/CelestineP4.webp",
     ]
   },
   {
@@ -483,9 +483,9 @@ const dresses = [
     tag: "New",
     description: "",
     images: [
-       "assets/Honey Yellow/Honey Yellow.WEBP",
-      "assets/Honey Yellow/Honey Yellow2.WEBP",
-      "assets/Honey Yellow/Honey Yellow3.WEBP",
+       "assets/Honey Yellow/Honey Yellow.webp",
+      "assets/Honey Yellow/Honey Yellow2.webp",
+      "assets/Honey Yellow/Honey Yellow3.webp",
     ]  },
   {
     id: 19,
@@ -1022,12 +1022,15 @@ const dresses = [
     name: "Pia White",
     category: "Coordinates",
     color: "White",
-    sizes: "M",
+    sizes: "S-M",
     price: "350/3 Days rental",
     tag: "New",
     description: "",
     images: [
-      "assets/Pia/Pia.WEBP", "assets/Pia/Pia1.WEBP", "assets/Pia/Pia2.WEBP"
+      "assets/Pia White/Pia White.JPG",
+       "assets/Pia White/Pia White.webp",
+        "assets/Pia White/Pia White2.webp",
+         "assets/Pia White/Pia White3.webp",
     ]
   },
   {
@@ -1041,8 +1044,19 @@ const dresses = [
     description: "",
     images: [
       "assets/Rosalie/Rosalie2.JPG", "assets/Rosalie/Rosalie.JPG"]
+  },
+{
+    id: 96,
+    name: "Rose",
+    category: "Coordinates",
+    color: "",
+    sizes: "XL",
+    price: "550/3 Days rental",
+    tag: "New",
+    description: "",
+    images: [
+      "assets/Rose/Rose.JPG", "assets/Rose/Rose.PNG"]
   }
-
   ,
   {
     id: 51,
@@ -1074,8 +1088,53 @@ const dresses = [
       "assets/Ruby Red/Ruby Red2.webp",
       "assets/Ruby Black/Ruby Red3.webp",
     ]
+  },
+  {
+    id: 97,
+    name: "Samantha",
+    category: "Cocktail",
+    color: "Brown",
+    sizes: "S - Semi Medium",
+    price: "550/3 Days rental",
+    tag: "New",
+    description: "",
+    images: [
+      "assets/Samantha/Samantha.webp",
+       "assets/Samantha/Samantha2.webp",
+        "assets/Samantha/Samantha.PNG",
+     
+    ]
+  },
+  {
+    id: 99,
+    name: "Sandra",
+    category: "Cocktail",
+    color: "Brown",
+    sizes: "S - Semi Medium",
+    price: "650/3 Days rental",
+    tag: "New",
+    description: "",
+    images: [
+      "assets/Sandra/Sandra.webp",
+       "assets/Sandra/Sandra.JPG",
+   "assets/Sandra/Sandra2.JPG",     
+    ]
+  },
+    {
+    id: 100,
+    name: "Scarlett",
+    category: "Cocktail",
+    color: "Pink",
+    sizes: "S - Medium",
+    price: "600/3 Days rental",
+    tag: "New",
+    description: "",
+    images: [
+      "assets/Scarlett/Scarlett2.JPG",
+       "assets/Scarlett/Scarlett.JPG",
+   "assets/Scarlett/Scarlett.PNG",     
+    ]
   }
-
   ,
   {
     id: 54,
@@ -1104,6 +1163,21 @@ const dresses = [
     images: [
       "assets/Serena Set/Serena Set2.JPG",
       "assets/Serena Set/Serena Set.JPG",
+    ]
+  },
+  {
+    id: 102,
+    name: "Solenn",
+    category: "Coordinates",
+    color: "Blue",
+    sizes: "S - Semi Medium",
+    price: "550/3 Days rental",
+    tag: "New",
+    description: "",
+    images: [
+      "assets/Solenn/Solenn.JPG",
+            "assets/Solenn/Solenn2.JPG",
+      "assets/Solenn/Solenn3.JPG",
     ]
   }
   ,
@@ -1191,6 +1265,18 @@ const dresses = [
       "assets/Vea Red/Vea Red2.JPG",
       "assets/Vea Red/Vea Red.JPG",
       "assets/Vea Red/Vea Red3.JPG",
+    ]
+  }, {
+    id: 103,
+    name: "Victoria",
+    category: "Coordinates",
+    color: "Baby Pink",
+    sizes: "Medium - Large",
+    price: "650/3 Days rental",
+    tag: "New",
+    description: "",
+    images: [
+      "assets/Victoria/Victoria4.webp","assets/Victoria/Victoria.webp","assets/Victoria/Victoria2.webp","assets/Victoria/Victoria3.webp",
     ]
   },
   {
