@@ -1,4 +1,6 @@
 const dresses = [
+
+
   {
     id: 1,
     name: "Amber",
@@ -12,7 +14,7 @@ const dresses = [
       "assets/AMBER (XS-S)500/Amber_02.webp",
       "assets/AMBER (XS-S)500/Amber_03.webp",
       "assets/AMBER (XS-S)500/Amber_04.webp"
-    ]   
+    ]
   },
   {
     id: 2,
@@ -22,7 +24,7 @@ const dresses = [
     sizes: "<M-L>",
     price: "₱150 /3 Days rental",
     tag: "New",
-    description:  "",
+    description: "",
     images: [
       "assets/Amelie/Amelie_01.JPG",
       "assets/Amelie/Amelie.JPG"
@@ -37,7 +39,7 @@ const dresses = [
     price: "₱200 /3 Days rental",
     tag: "Popular",
     images: [
-     "assets/Andrea/andrea_01.JPG"
+      "assets/Andrea/andrea_01.JPG"
 
     ]
   },
@@ -50,7 +52,7 @@ const dresses = [
     price: "₱600 /3 Days rental",
     tag: "New",
     images: [
-      "assets/Arabella/04.webp","assets/Arabella/01.webp","assets/Arabella/03.webp", 
+      "assets/Arabella/04.webp", "assets/Arabella/01.webp", "assets/Arabella/03.webp",
     ]
   },
   {
@@ -62,20 +64,85 @@ const dresses = [
     price: "₱500/3 Days rental",
     tag: "New",
     images: [
-      "assets/Aurora/Aurora_01.JPG","assets/Aurora/Aurora_02.JPG"
+      "assets/Aurora/Aurora_01.JPG", "assets/Aurora/Aurora_02.JPG"
     ]
   },
   {
-    id: 6,
-    name: "Celestine",
+    id: 71,
+    name: "Britanny Pink",
+    category: "Long Dress",
+    color: "Pink",
+    sizes: "M",
+    price: "₱600/3 Days rental",
+    tag: "New",
+    images: [
+      "assets/Brittany/Brittany.WEBP",
+      "assets/Brittany/Brittany2.WEBP",
+    ]
+  },
+  {
+    id: 72,
+    name: "Britanny Red",
+    category: "Red",
+    color: "Floral",
+    sizes: "XS - S",
+    price: "₱600/3 Days rental",
+    tag: "New",
+    images: [
+      "assets/BrittanyR/BrittanyR.WEBP",
+      "assets/BrittanyR/BrittanyR2.WEBP",
+    ]
+  },
+
+  {
+    id: 73,
+    name: "Catriona",
     category: "Long Dress",
     color: "Velvet",
+    sizes: "M - Semi Large",
+    price: "₱850 /3 Days rental",
+    tag: "New",
+    description: "",
+    images: [
+      "assets/Catriona/Catriona.webp",
+      "assets/Catriona/Catriona2.webp",
+      "assets/Catriona/Catriona3.webp",
+      "assets/Catriona/Catriona4.webp",
+      "assets/Catriona/Catriona5.webp"
+
+    ]
+  },
+
+
+  {
+    id: 6,
+    name: "Celestine Red",
+    category: "Long Dress",
+    color: "Red",
     sizes: "S · M",
     price: "₱600 /3 Days rental",
     tag: "New",
-    description: "An elegant long silhouette with refined details for formal dinners, ceremonies, and sophisticated events.",
+    description: "",
     images: [
-    "assets/Celestine/Celstine01.PNG","assets/Celestine/Celstine02.PNG"
+
+      "assets/Celestine/Celstine01.PNG", "assets/Celestine/Celstine02.PNG"
+    ]
+  },
+
+  {
+    id: 74,
+    name: "Celestine Pink",
+    category: "Long Dress",
+    color: "Pink",
+    sizes: "L",
+    price: "₱600 /3 Days rental",
+    tag: "New",
+    description: "",
+    images: [
+      "assets/CelestineP/CelestineP.Webp",
+      "assets/CelestineP/CelestineP2.Webp",
+      "assets/CelestineP/CelestineP3.Webp",
+      "assets/CelestineP/CelestineP4.Webp",
     ]
   },
   {
@@ -86,9 +153,26 @@ const dresses = [
     sizes: "M - Semi Large",
     price: "₱450 /3 Days rental",
     tag: "Evening",
-    description:"",
+    description: "",
     images: [
       "assets/Celine/Celine01.PNG", "assets/Celine/celine02.JPG"]
+  },
+  {
+    id: 75,
+    name: "Chandria Blue",
+    category: "Cocktail ",
+    color: "Blue",
+    sizes: "S - M",
+    price: "₱400 /3 Days rental",
+    tag: "Classic",
+    description: "",
+    images: [
+       "assets/ChandriaB/ChandriaB3.PNG",
+      "assets/ChandriaB/ChandriaB.WEBP",
+      "assets/ChandriaB/ChandriaB2.WEBP",
+     
+
+    ]
   },
   {
     id: 8,
@@ -105,7 +189,7 @@ const dresses = [
       "assets/Chandria Green/ChandriaGreen03.WEBP"
     ]
   },
-   {
+  {
     id: 9,
     name: "Chandria Pink",
     category: "Cocktail ",
@@ -120,8 +204,8 @@ const dresses = [
       "assets/Chandria Pink/Chandria Pink.WEBP"
     ]
   },
-   {
-    id:10,
+  {
+    id: 10,
     name: "Chandria Red",
     category: "Cocktail",
     color: "Red",
@@ -135,7 +219,37 @@ const dresses = [
       "assets/Chandria Red/ChandriaRed03.webp"
     ]
   },
-   {
+  {
+    id: 77,
+    name: "Chevery",
+    category: "Coordinates",
+    color: "Green",
+    sizes: "xs - S",
+    price: "₱500 /3 Days rental",
+    tag: "Classic",
+    description: "",
+    images: [
+      "assets/Chevery/Chevery.webp",
+      "assets/Chevery/Chevery2.webp",
+      "assets/Chevery/Chevery3.webp",
+    ]
+  },
+  {
+    id: 78,
+    name: "Chielo",
+    category: "Coordinates",
+    color: "Pink",
+    sizes: "xs - S",
+    price: "₱550 /3 Days rental",
+    tag: "Classic",
+    description: "",
+    images: [
+      "assets/Chielo/Chielo1.webp",
+      "assets/Chielo/Chielo.PNG",
+      "assets/Chielo/Chielo.webp",
+    ]
+  },
+  {
     id: 11,
     name: "Coco Set",
     category: "Coordinates",
@@ -150,6 +264,24 @@ const dresses = [
     ]
   },
    {
+    id: 78,
+    name: "Corset Tops",
+    category: "",
+    color: "",
+    sizes: "S - M",
+    price: "150 /3 Days rental",
+    tag: "New",
+    description: "",
+    images: [
+      "assets/Corset/C1.PNG",
+            "assets/Corset/C2.PNG",
+                  "assets/Corset/C3.PNG",
+
+
+
+    ]
+  },
+  {
     id: 12,
     name: "Dahlia",
     category: "Cocktail ",
@@ -162,9 +294,9 @@ const dresses = [
       "assets/Dahlia/Dahlia01.JPG",
       "assets/Dahlia/Dahlia02.webp",
       "assets/Dahlia/Dahlia03.webp"
-      ]
+    ]
   },
-    {
+  {
     id: 13,
     name: "Daisy Belle",
     category: "Coordinates",
@@ -177,10 +309,10 @@ const dresses = [
       "assets/Daisy Belle/DaisyBelle01.JPG",
       "assets/Daisy Belle/DaisyBelle02.JPG"
 
-     
-      ]
+
+    ]
   },
-    {
+  {
     id: 14,
     name: "Daniella",
     category: "Cocktail ",
@@ -191,13 +323,13 @@ const dresses = [
     description: "",
     images: [
       "assets/Daniella/Daniella01.JPG",
-            "assets/Daniella/Daniella02.JPG"
+      "assets/Daniella/Daniella02.JPG"
 
-   
- 
-      ]
+
+
+    ]
   },
-    {
+  {
     id: 15,
     name: "Elixir",
     category: "Cocktail",
@@ -209,9 +341,9 @@ const dresses = [
     images: [
       "assets/Elixir/Elixir1.JPG",
       "assets/Elixir/Elixir2.JPG"
-      ]
+    ]
   },
-    {
+  {
     id: 16,
     name: "Gabriella Black",
     category: "Coordinates",
@@ -224,9 +356,9 @@ const dresses = [
       "assets/Gabriella Black/Gabriella Black2.WEBP",
       "assets/Gabriella Black/Gabriella Black1.WEBP",
       "assets/Gabriella Black/Gabriella Black3.WEBP"
-      ]
+    ]
   },
-   {
+  {
     id: 17,
     name: "Gabriella Pink",
     category: "Coordinates",
@@ -239,9 +371,9 @@ const dresses = [
       "assets/Gabriella Pink/Gabriella Pink.PNG",
       "assets/Gabriella Pink/Gabriella Pink2.PNG",
       "assets/Gabriella Pink/Gabriella Pink3.JPG"
-      ]
+    ]
   },
-   {
+  {
     id: 18,
     name: "Gabriella White",
     category: "Coordinates",
@@ -254,7 +386,7 @@ const dresses = [
       "assets/Gabriella White/Gabriella White1.JPG",
       "assets/Gabriella White/Gabriella White2.JPG",
       "assets/Gabriella White/Gabriella white3.JPG"
-      ]
+    ]
   },
   {
     id: 19,
@@ -267,9 +399,9 @@ const dresses = [
     description: "",
     images: [
       "assets/Janella/Janella1.webp",
-       "assets/Janella/Janella2.webp",
-        "assets/Janella/Janella3.webp",
-     ]
+      "assets/Janella/Janella2.webp",
+      "assets/Janella/Janella3.webp",
+    ]
   },
   {
     id: 20,
@@ -283,7 +415,7 @@ const dresses = [
     images: [
       "assets/Jasmin/Jasmin1.JPG",
       "assets/Jasmin/Jasmin2.JPG",
-      ]
+    ]
   },
   {
     id: 21,
@@ -296,9 +428,9 @@ const dresses = [
     description: "",
     images: [
       "assets/Jeshiel/Jeshiel.JPG",
-      ]
+    ]
   },
-   {
+  {
     id: 22,
     name: "Julia White",
     category: "Coordinates",
@@ -309,11 +441,11 @@ const dresses = [
     description: "",
     images: [
       "assets/Julia/Julia1.JPG",
-            "assets/Julia/Julia2.JPG",
-                  "assets/Julia/Julia3.JPG",
+      "assets/Julia/Julia2.JPG",
+      "assets/Julia/Julia3.JPG",
 
 
-      ]
+    ]
   },
   {
     id: 23,
@@ -326,12 +458,12 @@ const dresses = [
     description: "",
     images: [
       "assets/Kaila Black/Kaila3.webp",
-            "assets/Kaila black/Kaila2.webp",
-                  "assets/Kaila Black/Kaila3.JPG",
-      ]
+      "assets/Kaila black/Kaila2.webp",
+      "assets/Kaila Black/Kaila3.JPG",
+    ]
   },
-{
-   id: 24,
+  {
+    id: 24,
     name: "Kaila Pink",
     category: "Coordinates",
     color: "Pink",
@@ -341,12 +473,12 @@ const dresses = [
     description: "",
     images: [
       "assets/Kaila Pink/Kaila3.JPG",
-            "assets/Kaila Pink/Kaila2.JPG",
-                  "assets/Kaila Pink/Kaila3.JPG",
-      ]
-},
-{
-   id: 25,
+      "assets/Kaila Pink/Kaila2.JPG",
+      "assets/Kaila Pink/Kaila3.JPG",
+    ]
+  },
+  {
+    id: 25,
     name: "Kaila Red",
     category: "Coordinates",
     color: "Red",
@@ -356,11 +488,11 @@ const dresses = [
     description: "",
     images: [
       "assets/Kaila Red/Kaila2.JPG",
-            "assets/Kaila Red/Kaila1.JPG",
-      ]
-},
-{
-   id: 26,
+      "assets/Kaila Red/Kaila1.JPG",
+    ]
+  },
+  {
+    id: 26,
     name: "Kathryn",
     category: "Long Dress",
     color: "White , Pink",
@@ -370,11 +502,12 @@ const dresses = [
     description: "",
     images: [
       "assets/Kathryn/Kathryn3.JPG",
-            "assets/Kathryn/Kathryn2.JPG",
-            "assets/Kathryn/Kathryn1.JPG"
-      ]
-},
-{id: 27,
+      "assets/Kathryn/Kathryn2.JPG",
+      "assets/Kathryn/Kathryn1.JPG"
+    ]
+  },
+  {
+    id: 27,
     name: "Leonida",
     category: "Long Dress",
     color: "White",
@@ -384,11 +517,12 @@ const dresses = [
     description: "",
     images: [
       "assets/Leonida/Leonida2.JPG",
-            "assets/Leonida/Leonida1.JPG",
-            "assets/Leonida/Leonida3.JPG"
-      ]
-},
-{id: 28,
+      "assets/Leonida/Leonida1.JPG",
+      "assets/Leonida/Leonida3.JPG"
+    ]
+  },
+  {
+    id: 28,
     name: "Liora Set",
     category: "Long Dress",
     color: "Floral",
@@ -398,9 +532,10 @@ const dresses = [
     description: "",
     images: [
       "assets/Liora Set/Liora Set.JPG",
-            "assets/Liora Set/Liora Set1.JPG",
-      ]
-},{id: 29,
+      "assets/Liora Set/Liora Set1.JPG",
+    ]
+  }, {
+    id: 29,
     name: "Liza",
     category: "Long Dress",
     color: "Pink Floral",
@@ -411,8 +546,9 @@ const dresses = [
     images: [
       "assets/Liza/Liza.JPG",
 
-      ]
-},{id: 30,
+    ]
+  }, {
+    id: 30,
     name: "Lumi",
     category: "Coordinates",
     color: "Pink",
@@ -422,10 +558,11 @@ const dresses = [
     description: "",
     images: [
       "assets/Lumi/Lumi1.JPG",
-       "assets/Lumi/Lumi.PNG",
-      ]
-},
-{id: 31,
+      "assets/Lumi/Lumi.PNG",
+    ]
+  },
+  {
+    id: 31,
     name: "Mariestella",
     category: "Coordinates",
     color: "Black, Red",
@@ -434,11 +571,13 @@ const dresses = [
     tag: "New",
     description: "",
     images: [
-       "assets/Mariestella/Mariestella2.JPG",
-       "assets/Mariestella/Mariestella1.JPG",
-       "assets/Mariestella/Mariestella3.JPG"
-      ]},
-{id: 32,
+      "assets/Mariestella/Mariestella2.JPG",
+      "assets/Mariestella/Mariestella1.JPG",
+      "assets/Mariestella/Mariestella3.JPG"
+    ]
+  },
+  {
+    id: 32,
     name: "Merdissa",
     category: "Coordinates",
     color: "Black, Red",
@@ -449,9 +588,10 @@ const dresses = [
     images: [
       "assets/Merdissa/Merdissa.JPG",
       "assets/Merdissa/Merdissa2.JPG",
-      ]
-}
-,{id: 33,
+    ]
+  }
+  , {
+    id: 33,
     name: "Merenciana",
     category: "Coordinates",
     color: "Black, Red",
@@ -462,9 +602,11 @@ const dresses = [
     images: [
       "assets/Merenciana/Merenciana.JPG",
       "assets/Merenciana/Merenciana1.JPG",
-      "assets/Merenciana/Merenciana2.JPG", ]}
+      "assets/Merenciana/Merenciana2.JPG",]
+  }
 
-      , {id: 34,
+  , {
+    id: 34,
     name: "Merviella Black",
     category: "Coordinates",
     color: "Black",
@@ -474,11 +616,12 @@ const dresses = [
     description: "",
     images: [
       "assets/MerviellaB/MerviellaB2.webp",
-"assets/MerviellaB/MerviellaB1.JPG",  
+      "assets/MerviellaB/MerviellaB1.JPG",
 
-      ]
-},
-{id: 37,
+    ]
+  },
+  {
+    id: 37,
     name: "Merviella Green",
     category: "Coordinates",
     color: "Green",
@@ -487,10 +630,11 @@ const dresses = [
     tag: "New",
     description: "",
     images: [
-"assets/MerviellaG/MerviellaG1.JPG", "assets/MerviellaG/MerviellaG.JPG", "assets/MerviellaG/MerviellaG2.JPG", 
-  ]
-},
-{id: 35,
+      "assets/MerviellaG/MerviellaG1.JPG", "assets/MerviellaG/MerviellaG.JPG", "assets/MerviellaG/MerviellaG2.JPG",
+    ]
+  },
+  {
+    id: 35,
     name: "Merviella Pink",
     category: "Coordinates",
     color: "Pink",
@@ -499,10 +643,11 @@ const dresses = [
     tag: "New",
     description: "",
     images: [
-"assets/MerviellaP/MerviellaPink2.JPG",  "assets/MerviellaP/MerviellaPink.JPG",  "assets/MerviellaP/MerviellaPink3.JPG",
-  ]
-},
-{id: 36,
+      "assets/MerviellaP/MerviellaPink2.JPG", "assets/MerviellaP/MerviellaPink.JPG", "assets/MerviellaP/MerviellaPink3.JPG",
+    ]
+  },
+  {
+    id: 36,
     name: "Merviella Red",
     category: "Coordinates",
     color: "Red",
@@ -511,10 +656,11 @@ const dresses = [
     tag: "New",
     description: "",
     images: [
-"assets/MerviellaR/MerviellaR.JPG",  "assets/MerviellaR/MerviellaR1.JPG",  "assets/MerviellaR/MerviellaR2.JPG",
-  ]
-},
-{id: 38,
+      "assets/MerviellaR/MerviellaR.JPG", "assets/MerviellaR/MerviellaR1.JPG", "assets/MerviellaR/MerviellaR2.JPG",
+    ]
+  },
+  {
+    id: 38,
     name: "Mia Set",
     category: "Coordinates",
     color: "Blue",
@@ -523,9 +669,10 @@ const dresses = [
     tag: "New",
     description: "",
     images: [
-"assets/Mia Set/Mia Set.JPG", "assets/Mia Set/Mia Set1.JPG",   ]
-},
-{id: 39,
+      "assets/Mia Set/Mia Set.JPG", "assets/Mia Set/Mia Set1.JPG",]
+  },
+  {
+    id: 39,
     name: "Mika Blue",
     category: "Coordinates",
     color: "Blue",
@@ -534,10 +681,11 @@ const dresses = [
     tag: "New",
     description: "",
     images: [
-"assets/Mika Blue/Mika Blue1.JPG", "assets/Mika Blue/Mika Blue2.JPG",   ]
-}
-,
-{id: 40,
+      "assets/Mika Blue/Mika Blue1.JPG", "assets/Mika Blue/Mika Blue2.JPG",]
+  }
+  ,
+  {
+    id: 40,
     name: "Mika White",
     category: "Coordinates",
     color: "White",
@@ -546,10 +694,11 @@ const dresses = [
     tag: "New",
     description: "",
     images: [
-"assets/Mika White/Mika White.JPG", "assets/Mika White/Mika White2.WEBP",   ]
-}
-,
-{id: 41,
+      "assets/Mika White/Mika White.JPG", "assets/Mika White/Mika White2.WEBP",]
+  }
+  ,
+  {
+    id: 41,
     name: "Neriel",
     category: "Coordinates",
     color: "Red",
@@ -558,9 +707,10 @@ const dresses = [
     tag: "New",
     description: "",
     images: [
-"assets/Neriel/Neriel.JPG", ]
-},
-{id: 42,
+      "assets/Neriel/Neriel.JPG",]
+  },
+  {
+    id: 42,
     name: "Olivia",
     category: "Coordinates",
     color: "Red",
@@ -569,9 +719,10 @@ const dresses = [
     tag: "New",
     description: "",
     images: [
-"assets/Olivia/Olivia2.webp","assets/Olivia/Olivia1.webp","assets/Olivia/Olivia.webp", ]
-},
-{id: 43,
+      "assets/Olivia/Olivia2.webp", "assets/Olivia/Olivia1.webp", "assets/Olivia/Olivia.webp",]
+  },
+  {
+    id: 43,
     name: "Luna",
     category: "Coordinates",
     color: "Pearl",
@@ -580,9 +731,11 @@ const dresses = [
     tag: "New",
     description: "",
     images: [
-"assets/Others150/Luna_Small.JPG"
-    ]    },
-{id: 44,
+      "assets/Others150/Luna_Small.JPG"
+    ]
+  },
+  {
+    id: 44,
     name: "Leila",
     category: "Coordinates",
     color: "Shades of Brown",
@@ -591,9 +744,11 @@ const dresses = [
     tag: "New",
     description: "",
     images: [
-"assets/Others150/Leila_Small.JPG"
-]},
-{id: 45,
+      "assets/Others150/Leila_Small.JPG"
+    ]
+  },
+  {
+    id: 45,
     name: "Riana",
     category: "Coordinates",
     color: "Pearl",
@@ -602,9 +757,11 @@ const dresses = [
     tag: "New",
     description: "",
     images: [
-"assets/Others150/Riana_M.JPG"
-]},
-{id: 46,
+      "assets/Others150/Riana_M.JPG"
+    ]
+  },
+  {
+    id: 46,
     name: "Riana",
     category: "Coordinates",
     color: "Green",
@@ -613,9 +770,11 @@ const dresses = [
     tag: "New",
     description: "",
     images: [
-"assets/Others200/Dea_S.JPG"
-]},
-{id: 47,
+      "assets/Others200/Dea_S.JPG"
+    ]
+  },
+  {
+    id: 47,
     name: "Riana",
     category: "Coordinates",
     color: "Yellow",
@@ -624,9 +783,11 @@ const dresses = [
     tag: "New",
     description: "",
     images: [
-"assets/Others200/Eula_S.JPG"
-]},
-{id: 48,
+      "assets/Others200/Eula_S.JPG"
+    ]
+  },
+  {
+    id: 48,
     name: "Zara",
     category: "Coordinates",
     color: "Red",
@@ -635,10 +796,12 @@ const dresses = [
     tag: "New",
     description: "",
     images: [
-"assets/Others200/Zara_S.JPG"
-]}
-,
-{id: 49,
+      "assets/Others200/Zara_S.JPG"
+    ]
+  }
+  ,
+  {
+    id: 49,
     name: "Pia",
     category: "Coordinates",
     color: "Red",
@@ -647,9 +810,11 @@ const dresses = [
     tag: "New",
     description: "",
     images: [
-"assets/Pia/Pia.WEBP","assets/Pia/Pia1.WEBP","assets/Pia/Pia2.WEBP"
-]},
-{id: 50,
+      "assets/Pia/Pia.WEBP", "assets/Pia/Pia1.WEBP", "assets/Pia/Pia2.WEBP"
+    ]
+  },
+  {
+    id: 50,
     name: "Pia",
     category: "Coordinates",
     color: "Red",
@@ -658,10 +823,12 @@ const dresses = [
     tag: "New",
     description: "",
     images: [
-"assets/Rosalie/Rosalie2.JPG","assets/Rosalie/Rosalie.JPG"]}
+      "assets/Rosalie/Rosalie2.JPG", "assets/Rosalie/Rosalie.JPG"]
+  }
 
-,
-{id: 51,
+  ,
+  {
+    id: 51,
     name: "Ruby Black",
     category: "Cocktail",
     color: "Black",
@@ -670,12 +837,14 @@ const dresses = [
     tag: "New",
     description: "",
     images: [
-"assets/Ruby Black/Ruby B2.webp",
-"assets/Ruby Black/Ruby B1.webp",
-"assets/Ruby Black/Ruby B.webp",
-"assets/Ruby Black/Ruby B3.webp",
-]},
-{id: 52,
+      "assets/Ruby Black/Ruby B2.webp",
+      "assets/Ruby Black/Ruby B1.webp",
+      "assets/Ruby Black/Ruby B.webp",
+      "assets/Ruby Black/Ruby B3.webp",
+    ]
+  },
+  {
+    id: 52,
     name: "Ruby Red",
     category: "Cocktail",
     color: "Red",
@@ -684,13 +853,15 @@ const dresses = [
     tag: "New",
     description: "",
     images: [
-"assets/Ruby Red/Ruby Red.JPG",
-"assets/Ruby Red/Ruby Red2.webp",
-"assets/Ruby Black/Ruby Red3.webp",
-]}
+      "assets/Ruby Red/Ruby Red.JPG",
+      "assets/Ruby Red/Ruby Red2.webp",
+      "assets/Ruby Black/Ruby Red3.webp",
+    ]
+  }
 
-,
-{id: 54,
+  ,
+  {
+    id: 54,
     name: "Sephora",
     category: "Cocktail",
     color: "Red",
@@ -699,11 +870,13 @@ const dresses = [
     tag: "New",
     description: "",
     images: [
-"assets/Sephora/Sephora1.JPG",
-"assets/Sephora/Sephora2.JPG",
-]}
-,
-{id: 55,
+      "assets/Sephora/Sephora1.JPG",
+      "assets/Sephora/Sephora2.JPG",
+    ]
+  }
+  ,
+  {
+    id: 55,
     name: "Serena Set",
     category: "Coordinates",
     color: "Blue",
@@ -712,11 +885,13 @@ const dresses = [
     tag: "New",
     description: "",
     images: [
-"assets/Serena Set/Serena Set2.JPG",
-"assets/Serena Set/Serena Set.JPG",
-]}
-,
-{id: 56,
+      "assets/Serena Set/Serena Set2.JPG",
+      "assets/Serena Set/Serena Set.JPG",
+    ]
+  }
+  ,
+  {
+    id: 56,
     name: "Sofia",
     category: "Cocktail",
     color: "Red",
@@ -725,12 +900,14 @@ const dresses = [
     tag: "New",
     description: "",
     images: [
-"assets/Sofia/Sofia.webp",
-"assets/Sofia/Sofia3.webp",
-"assets/Sofia/Sofia2.webp"
-]}
-,
-{id: 57,
+      "assets/Sofia/Sofia.webp",
+      "assets/Sofia/Sofia3.webp",
+      "assets/Sofia/Sofia2.webp"
+    ]
+  }
+  ,
+  {
+    id: 57,
     name: "Stella",
     category: "Cocktail",
     color: "Yellow",
@@ -739,9 +916,11 @@ const dresses = [
     tag: "New",
     description: "",
     images: [
-"assets/Stella/Stella.JPG",
-]},
-{id: 58,
+      "assets/Stella/Stella.JPG",
+    ]
+  },
+  {
+    id: 58,
     name: "Thea Set",
     category: "Coordinates",
     color: "Gray",
@@ -750,9 +929,11 @@ const dresses = [
     tag: "New",
     description: "",
     images: [
-"assets/Thea Set/Thea Set1.JPG","assets/Thea Set/Thea Set2.JPG",
-]},
-{id: 59,
+      "assets/Thea Set/Thea Set1.JPG", "assets/Thea Set/Thea Set2.JPG",
+    ]
+  },
+  {
+    id: 59,
     name: "Valentina",
     category: "Cocktail",
     color: "Red",
@@ -761,10 +942,12 @@ const dresses = [
     tag: "New",
     description: "",
     images: [
-"assets/Valentina/Valentina1.webp", "assets/Valentina/Valentina.JPG","assets/Valentina/Valentina2.JPG"]}
+      "assets/Valentina/Valentina1.webp", "assets/Valentina/Valentina.JPG", "assets/Valentina/Valentina2.JPG"]
+  }
 
-,
-{id: 60,
+  ,
+  {
+    id: 60,
     name: "Vea Black",
     category: "Cocktail",
     color: "Black",
@@ -773,11 +956,13 @@ const dresses = [
     tag: "New",
     description: "",
     images: [
-"assets/Vea Black/Vea Black.JPG", 
-"assets/Vea Black/Vea Black2.JPG", 
-"assets/Vea Black/Vea Black3.JPG", 
-]},
-{id: 61,
+      "assets/Vea Black/Vea Black.JPG",
+      "assets/Vea Black/Vea Black2.JPG",
+      "assets/Vea Black/Vea Black3.JPG",
+    ]
+  },
+  {
+    id: 61,
     name: "Vea Red",
     category: "Cocktail",
     color: "Red",
@@ -786,11 +971,13 @@ const dresses = [
     tag: "New",
     description: "",
     images: [
-"assets/Vea Red/Vea Red2.JPG", 
-"assets/Vea Red/Vea Red.JPG", 
-"assets/Vea Red/Vea Red3.JPG", 
-]},
-{id: 62,
+      "assets/Vea Red/Vea Red2.JPG",
+      "assets/Vea Red/Vea Red.JPG",
+      "assets/Vea Red/Vea Red3.JPG",
+    ]
+  },
+  {
+    id: 62,
     name: "Vilma",
     category: "Coordinates",
     color: "Baby Pink",
@@ -799,10 +986,12 @@ const dresses = [
     tag: "New",
     description: "",
     images: [
-"assets/Vilma/Vilma.JPG", "assets/Vilma/Vilma2.JPG", 
+      "assets/Vilma/Vilma.JPG", "assets/Vilma/Vilma2.JPG",
 
-]},
-{id: 63,
+    ]
+  },
+  {
+    id: 63,
     name: "Xiana",
     category: "Coordinates",
     color: "Baby Pink",
@@ -811,12 +1000,14 @@ const dresses = [
     tag: "New",
     description: "",
     images: [
-"assets/Xiana/Xiana2.WEBP",
-"assets/Xiana/Xiana.WEBP",
-"assets/Xiana/Xiana3.WEBP",
-]}
-,
-{id: 64,
+      "assets/Xiana/Xiana2.WEBP",
+      "assets/Xiana/Xiana.WEBP",
+      "assets/Xiana/Xiana3.WEBP",
+    ]
+  }
+  ,
+  {
+    id: 64,
     name: "Yue Pink",
     category: "Cocktail",
     color: "Pink",
@@ -825,11 +1016,13 @@ const dresses = [
     tag: "New",
     description: "",
     images: [
-"assets/Yue Pink/Yue Pink2.JPG",
-"assets/Yue Pink/Yue Pink.JPG",
-]}
-,
-{id: 65,
+      "assets/Yue Pink/Yue Pink2.JPG",
+      "assets/Yue Pink/Yue Pink.JPG",
+    ]
+  }
+  ,
+  {
+    id: 65,
     name: "Yue Red",
     category: "Cocktail",
     color: "Red",
@@ -838,9 +1031,11 @@ const dresses = [
     tag: "New",
     description: "",
     images: [
-"assets/Yue Red/Yue Red2.JPG","assets/Yue Red/Yue Red.JPG",
-    ]},
-{id: 66,
+      "assets/Yue Red/Yue Red2.JPG", "assets/Yue Red/Yue Red.JPG",
+    ]
+  },
+  {
+    id: 66,
     name: "Zebbiana Blue",
     category: "Long Dress",
     color: "Blue",
@@ -849,12 +1044,14 @@ const dresses = [
     tag: "New",
     description: "",
     images: [
-"assets/Zebbiana Blue/Zebbiana Blue2.webp",
-"assets/Zebbiana Blue/Zebbiana Blue.PNG",
-"assets/Zebbiana Blue/Zebbiana Blue.webp",
+      "assets/Zebbiana Blue/Zebbiana Blue2.webp",
+      "assets/Zebbiana Blue/Zebbiana Blue.PNG",
+      "assets/Zebbiana Blue/Zebbiana Blue.webp",
 
-]},
-{id: 67,
+    ]
+  },
+  {
+    id: 67,
     name: "Zebbiana Pink",
     category: "Long Dress",
     color: "Pink",
@@ -863,12 +1060,14 @@ const dresses = [
     tag: "New",
     description: "",
     images: [
-"assets/Zebbiana Pink/Zebbiana Pink.webp",
-"assets/Zebbiana Pink/Zebbiana Pink.JPG",
-"assets/Zebbiana Pink/Zebbiana Pink2.JPG",
+      "assets/Zebbiana Pink/Zebbiana Pink.webp",
+      "assets/Zebbiana Pink/Zebbiana Pink.JPG",
+      "assets/Zebbiana Pink/Zebbiana Pink2.JPG",
 
-]},
-{id: 68,
+    ]
+  },
+  {
+    id: 68,
     name: "Zebbiana White",
     category: "Long Dress",
     color: "RWhiteed",
@@ -877,37 +1076,49 @@ const dresses = [
     tag: "New",
     description: "",
     images: [
-"assets/Zebbiana White/Zebbiana White3.JPG",
-"assets/Zebbiana White/Zebbiana White2.JPG",
-"assets/Zebbiana White/Zebbiana White.JPG",
+      "assets/Zebbiana White/Zebbiana White3.JPG",
+      "assets/Zebbiana White/Zebbiana White2.JPG",
+      "assets/Zebbiana White/Zebbiana White.JPG",
+    ]
+  },
+
+  {
+    id: 69,
+    name: "Zebbiana White",
+    category: "Long Dress",
+    color: "RWhiteed",
+    sizes: "M - L",
+    price: "550/3 Days rental",
+    tag: "New",
+    description: "",
+    images: [
+      "assets/Zebbiana White/Zebbiana White3.JPG",
+      "assets/Zebbiana White/Zebbiana White2.JPG",
+      "assets/Zebbiana White/Zebbiana White.JPG",
+    ]
+  }
+  ,
+
+  {
+    id: 70,
+    name: "Zebbiana White",
+    category: "Long Dress",
+    color: "RWhiteed",
+    sizes: "M - L",
+    price: "550/3 Days rental",
+    tag: "New",
+    description: "",
+    images: [
+      "assets/Zebbiana White/Zebbiana White3.JPG",
+      "assets/Zebbiana White/Zebbiana White2.JPG",
+      "assets/Zebbiana White/Zebbiana White.JPG",
+    ]
+  }
 
 
 
-]}
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
 
 ];
 
@@ -1001,9 +1212,9 @@ function openModal(id) {
     });
   });
 
-modalContact.href = "https://www.facebook.com/profile.php?id=61589916311144";
-modalContact.target = "_blank";
-modalContact.rel = "noopener noreferrer";
+  modalContact.href = "https://www.facebook.com/profile.php?id=61589916311144";
+  modalContact.target = "_blank";
+  modalContact.rel = "noopener noreferrer";
   modal.classList.add("open");
   modal.setAttribute("aria-hidden", "false");
   document.body.classList.add("modal-open");
