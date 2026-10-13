@@ -59,12 +59,24 @@ const dresses = [
     id: 5,
     name: "Aurora",
     category: "Long Dress",
-    color: "Floral",
+    color: "",
     sizes: "M",
     price: "₱500/3 Days rental",
     tag: "New",
     images: [
       "assets/Aurora/Aurora_01.JPG", "assets/Aurora/Aurora_02.JPG"
+    ]
+  },
+   {
+    id: 110,
+    name: "Britney",
+    category: " ",
+    color: "",
+    sizes: "1XL",
+    price: "₱550/3 Days rental",
+    tag: "New",
+    images: [
+      "assets/Britney/Britney.PNG", "assets/Britney/Britney2.PNG"
     ]
   },
   {
@@ -156,6 +168,21 @@ const dresses = [
     description: "",
     images: [
       "assets/Celine/Celine01.PNG", "assets/Celine/celine02.JPG"]
+  },
+   {
+    id: 111,
+    name: "Chandria Black",
+    category: "Cocktail ",
+    color: "Blue",
+    sizes: "M",
+    price: "₱400 /3 Days rental",
+    tag: "Classic",
+    description: "",
+    images: [
+       "assets/Chandria Black/Chandria Black.WEBP",
+       "assets/Chandria Black/Chandria Black2.WEBP",
+       "assets/Chandria Black/Chandria Black3.WEBP",
+      ]
   },
   {
     id: 75,
@@ -307,9 +334,21 @@ const dresses = [
     description: "",
     images: [
       "assets/Daisy Belle/DaisyBelle01.JPG",
-      "assets/Daisy Belle/DaisyBelle02.JPG"
-
-
+      "assets/Daisy Belle/DaisyBelle02.JPG",
+    ]
+  },
+   {
+    id: 115,
+    name: "Dale",
+    category: "",
+    color: "",
+    sizes: "M ",
+    price: "₱500 /3 Days rental",
+    tag: "New",
+    description: "",
+    images: [
+      "assets/Dale/Dale.PNG",
+      "assets/Dale/Dale.webp",
     ]
   },
   {
@@ -369,6 +408,22 @@ const dresses = [
     images: [
       "assets/Febie/Febie.JPG",
       "assets/Febie/Febie.WEBP"
+    ]
+  },
+    {
+    id: 118,
+    name: "Flora",
+    category: "",
+    color: "",
+    sizes: "S - Semi M",
+    price: "₱550 /3 Days rental",
+    tag: "New",
+    description: "",
+    images: [
+      "assets/Flora/Flora.jpeg",
+      "assets/Flora/Flora2.jpeg",
+     "assets/Flora/Flora3.jpeg",
+      "assets/Flora/Flora4.jpeg"
     ]
   },
   {
@@ -487,7 +542,24 @@ const dresses = [
       "assets/Honey Yellow/Honey Yellow2.webp",
       "assets/Honey Yellow/Honey Yellow3.webp",
     ]  },
-  {
+  
+    {
+    id: 120,
+    name: "Honey White",
+    category: "Cocktail",
+    color: "Yellow",
+    sizes: "XL",
+    price: "₱550 /3 Days rental",
+    tag: "New",
+    description: "",
+    images: [
+       "assets/Honey White/Honey White.JPG",
+       "assets/Honey White/Honey White.webp",
+       "assets/Honey White/Honey White2.webp",
+
+    ]  },
+
+    {
     id: 19,
     name: "Janella",
     category: "Cocktail",
@@ -751,9 +823,9 @@ const dresses = [
   },
   {
     id: 31,
-    name: "Mariestella",
+    name: "Mariestella Blue",
     category: "Coordinates",
-    color: "Black, Red",
+    color: "Blue",
     sizes: "M - Semi large",
     price: "550 /3 Days rental",
     tag: "New",
@@ -762,6 +834,23 @@ const dresses = [
       "assets/Mariestella/Mariestella2.JPG",
       "assets/Mariestella/Mariestella1.JPG",
       "assets/Mariestella/Mariestella3.JPG"
+    ]
+  },
+   {
+    id: 122,
+    name: "Mariestella Green",
+    category: "Coordinates",
+    color: "Blue",
+    sizes: "M - Semi large",
+    price: "550 /3 Days rental",
+    tag: "New",
+    description: "",
+    images: [
+      "assets/Mariestella Green/Mariestella Green.WEBP",
+      "assets/Mariestella Green/Mariestella Green2.WEBP",
+      "assets/Mariestella Green/Mariestella Green3.WEBP",
+      "assets/Mariestella Green/Mariestella Green4.WEBP"
+
     ]
   },
   {
@@ -884,6 +973,22 @@ const dresses = [
     images: [
       "assets/Mika White/Mika White.JPG", "assets/Mika White/Mika White2.WEBP",]
   }
+  ,
+  {
+    id: 130,
+    name: "Mika Green",
+    category: "Coordinates",
+    color: "Green ",
+    sizes: "L",
+    price: "600 /3 Days rental",
+    tag: "New",
+    description: "",
+    images: [
+      "assets/Mika Green/Mika Green.jpeg",
+      "assets/Mika Green/Mika Green2.jpeg",
+      "assets/Mika Green/Mika Green3.jpeg",]
+  }
+  
   ,
   {
     id: 41,
