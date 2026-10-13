@@ -324,10 +324,24 @@ const dresses = [
     images: [
       "assets/Daniella/Daniella01.JPG",
       "assets/Daniella/Daniella02.JPG"
+    ],
+  },
+{
+    id: 79,
+    name: "Elise",
+    category: "Cocktail ",
+    color: "Red",
+    sizes: "XS - S",
+    price: "₱600 /3 Days rental",
+    tag: "New",
+    description: "",
+    images: [
+      "assets/Elise/Elise.PNG",
+            "assets/Elise/Elise2.PNG",
+                  "assets/Elise/Elise3.JPG",
 
 
-
-    ]
+    ],
   },
   {
     id: 15,
@@ -341,6 +355,20 @@ const dresses = [
     images: [
       "assets/Elixir/Elixir1.JPG",
       "assets/Elixir/Elixir2.JPG"
+    ]
+  },
+  {
+    id: 80,
+    name: "Febie",
+    category: "Cocktail",
+    color: "Brown",
+    sizes: "XL",
+    price: "₱500 /3 Days rental",
+    tag: "New",
+    description: "",
+    images: [
+      "assets/Febie/Febie.JPG",
+      "assets/Febie/Febie.WEBP"
     ]
   },
   {
@@ -389,6 +417,77 @@ const dresses = [
     ]
   },
   {
+    id: 81,
+    name: "Glorie Brown",
+    category: "Coordinates",
+    color: "Brown",
+    sizes: "XL",
+    price: "₱550 /3 Days rental",
+    tag: "New",
+    description: "",
+    images: [
+      "assets/Glorie Brown/Glorie Brown.webp",
+"assets/Glorie Brown/Glorie Brown2.webp",
+"assets/Glorie Brown/Glorie Brown3.webp",
+    ]
+  },
+  {
+    id: 81,
+    name: "Glorie Maroon>",
+    category: "Coordinates",
+    color: "Brown",
+    sizes: "XL",
+    price: "₱550 /3 Days rental",
+    tag: "New",
+    description: "",
+    images: [
+      "assets/Glorie Maroon/Glorie Maroon.webp",
+"assets/Glorie Maroon/Glorie Maroon2.webp",
+
+    ]
+    
+  },
+  {
+    id: 83,
+    name: "Grace",
+    category: "Cocktail",
+    color: "White",
+    sizes: "Xl",
+    price: "₱550 /3 Days rental",
+    tag: "New",
+    description: "",
+    images: [
+       "assets/Grace/Grace.PNG",
+      "assets/Grace/Grace.JPG",
+    ]  },
+     {
+    id: 84,
+    name: "Honey Pink",
+    category: "Cocktail",
+    color: "Pink",
+    sizes: "L - Semi Xl",
+    price: "₱550 /3 Days rental",
+    tag: "New",
+    description: "",
+    images: [
+       "assets/Honey Pink/Honey Pink2.JPG",
+      "assets/Honey Pink/Honey Pink.JPG",
+    ]  },
+      {
+    id: 85,
+    name: "Honey Yellow",
+    category: "Cocktail",
+    color: "Yellow",
+    sizes: "L - Semi Xl",
+    price: "₱550 /3 Days rental",
+    tag: "New",
+    description: "",
+    images: [
+       "assets/Honey Yellow/Honey Yellow.WEBP",
+      "assets/Honey Yellow/Honey Yellow2.WEBP",
+      "assets/Honey Yellow/Honey Yellow3.WEBP",
+    ]  },
+  {
     id: 19,
     name: "Janella",
     category: "Cocktail",
@@ -418,6 +517,21 @@ const dresses = [
     ]
   },
   {
+    id: 86,
+    name: "Jella",
+    category: "Coordinates",
+    color: "",
+    sizes: "M - L",
+    price: "₱1,000 /3 Days rental",
+    tag: "New",
+    description: "",
+    images: [
+      "assets/Jella/Jella3.PNG",
+   "assets/Jella/Jella.PNG",
+   "assets/Jella/Jella2.PNG",
+    ]
+  },
+  {
     id: 21,
     name: "Jeshiel",
     category: "Coordinates",
@@ -431,10 +545,24 @@ const dresses = [
     ]
   },
   {
+    id: 87,
+    name: "Joy",
+    category: "Coordinates",
+    color: "",
+    sizes: "XL",
+    price: "550 /3 Days rental",
+    tag: "New",
+    description: "",
+    images: [
+      "assets/Joy/Joy.JPG",
+      "assets/Joy/Joy2.JPG",
+    ]
+  },
+  {
     id: 22,
     name: "Julia White",
     category: "Coordinates",
-    color: "Moss Green",
+    color: " White",
     sizes: "M - L",
     price: "550 /3 Days rental",
     tag: "New",
@@ -443,7 +571,37 @@ const dresses = [
       "assets/Julia/Julia1.JPG",
       "assets/Julia/Julia2.JPG",
       "assets/Julia/Julia3.JPG",
-
+    ]
+  },
+  {
+    id: 89,
+    name: "Julia Blue",
+    category: "Coordinates",
+    color: "Blue",
+    sizes: "M - L",
+    price: "600 /3 Days rental",
+    tag: "New",
+    description: "",
+    images: [
+      "assets/Julia Blue/Julia Blue.WEBP",
+      "assets/Julia Blue/Julia Blue3.WEBP",
+      "assets/Julia Blue/Julia Blue2.JPG",
+    ]
+  },
+  {
+    id: 90,
+    name: "Julia Pink",
+    category: "Coordinates",
+    color: "Pink",
+    sizes: "S - Semi Medium",
+    price: "600 /3 Days rental",
+    tag: "New",
+    description: "",
+    images: [
+      "assets/Julia Pink/Julia Pink.WEBP",
+      "assets/Julia Pink/Julia Pink2.WEBP",
+      "assets/Julia Pink/Julia Pink3.WEBP",
+            "assets/Julia Pink/Julia Pink4.WEBP",
 
     ]
   },
@@ -504,6 +662,36 @@ const dresses = [
       "assets/Kathryn/Kathryn3.JPG",
       "assets/Kathryn/Kathryn2.JPG",
       "assets/Kathryn/Kathryn1.JPG"
+    ]
+  },
+    {
+    id: 91,
+    name: "Kendra",
+    category: "Long Dress",
+    color: "White , Pink",
+    sizes: "Small -Semi M",
+    price: "550 /3 Days rental",
+    tag: "New",
+    description: "",
+    images: [
+      "assets/Kendra/Kendra.JPG",
+      "assets/Kendra/Kendra.PNG",
+    ]
+  },
+   {
+    id: 91,
+    name: "Krishna",
+    category: "Long Dress",
+    color: "White , Pink",
+    sizes: "XL",
+    price: "500 /3 Days rental",
+    tag: "New",
+    description: "",
+    images: [
+      "assets/Krishna/Krishna.webp",
+      "assets/Krishna/Krishna2.webp",
+            "assets/Krishna/Krishna3.webp",
+      
     ]
   },
   {
@@ -800,9 +988,25 @@ const dresses = [
     ]
   }
   ,
+    {
+    id: 93,
+    name: "Pia Black",
+    category: "Coordinates",
+    color: "Red",
+    sizes: "Small - Semi M",
+    price: "350/3 Days rental",
+    tag: "New",
+    description: "",
+    images: [
+      "assets/Pia Black/Pia Black.webp", 
+      "assets/Pia Black/Pia Black2.webp", 
+      "assets/Pia Black/Pia Black3.webp", 
+
+    ]
+  },
   {
     id: 49,
-    name: "Pia",
+    name: "Pia Red",
     category: "Coordinates",
     color: "Red",
     sizes: "M",
@@ -814,10 +1018,23 @@ const dresses = [
     ]
   },
   {
-    id: 50,
-    name: "Pia",
+    id: 94,
+    name: "Pia White",
     category: "Coordinates",
-    color: "Red",
+    color: "White",
+    sizes: "M",
+    price: "350/3 Days rental",
+    tag: "New",
+    description: "",
+    images: [
+      "assets/Pia/Pia.WEBP", "assets/Pia/Pia1.WEBP", "assets/Pia/Pia2.WEBP"
+    ]
+  },
+  {
+    id: 50,
+    name: "Rosalie",
+    category: "Coordinates",
+    color: "",
     sizes: "XS - S",
     price: "150/3 Days rental",
     tag: "New",
