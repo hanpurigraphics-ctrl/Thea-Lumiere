@@ -291,7 +291,7 @@ const dresses = [
     ]
   },
   {
-    id: 78,
+    id: 231,
     name: "Corset Tops",
     category: "",
     color: "",
@@ -874,7 +874,7 @@ const dresses = [
   , {
     id: 33,
     name: "Merenciana",
-    category: "Coordinates",
+    category: "Cocktail",
     color: "Black, Red",
     sizes: "S - M",
     price: "150 /3 Days rental",
