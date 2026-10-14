@@ -160,7 +160,7 @@ const dresses = [
   {
     id: 7,
     name: "Celine",
-    category: "",
+    category: "Coordinates",
     color: "White",
     sizes: "M - Semi Large",
     price: "₱450 /3 Days rental",
@@ -279,8 +279,8 @@ const dresses = [
   {
     id: 11,
     name: "Coco Set",
-    category: "Brown",
-    color: "Green",
+    category: "Coordinates",
+    color: "Brown",
     sizes: "S - M",
     price: "₱200 /3 Days rental",
     tag: "Classic",
@@ -610,7 +610,7 @@ const dresses = [
   {
     id: 21,
     name: "Jeshiel",
-    category: "Coordinates",
+    category: "Long Dress",
     color: "Moss Green",
     sizes: "M - L",
     price: "150 /3 Days rental",
@@ -684,7 +684,7 @@ const dresses = [
   {
     id: 23,
     name: "Kaila Black",
-    category: "Coordinates",
+    category: "Long Dress",
     color: "Black",
     sizes: "M - L",
     price: "600 /3 Days rental",
@@ -699,7 +699,7 @@ const dresses = [
   {
     id: 24,
     name: "Kaila Pink",
-    category: "Coordinates",
+    category: "Long Dress",
     color: "Pink",
     sizes: "S - M",
     price: "600 /3 Days rental",
@@ -714,7 +714,7 @@ const dresses = [
   {
     id: 25,
     name: "Kaila Red",
-    category: "Coordinates",
+    category: "Long Dress",
     color: "Red",
     sizes: "M - L",
     price: "600 /3 Days rental",
@@ -788,7 +788,7 @@ const dresses = [
   {
     id: 28,
     name: "Liora Set",
-    category: "Long Dress",
+    category: "Coordinates",
     color: "Floral",
     sizes: "M - L",
     price: "450 /3 Days rental",
@@ -1438,7 +1438,7 @@ const dresses = [
   {
     id: 62,
     name: "Vilma",
-    category: "Coordinates",
+    category: "Cocktail",
     color: "Baby Pink",
     sizes: "XS - S",
     price: "250/3 Days rental",
@@ -1452,7 +1452,7 @@ const dresses = [
   {
     id: 63,
     name: "Xiana",
-    category: "Coordinates",
+    category: "Cocktail",
     color: "Baby Pink",
     sizes: "S - M",
     price: "350/3 Days rental",
