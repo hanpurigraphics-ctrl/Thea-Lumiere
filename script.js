@@ -468,7 +468,7 @@ const dresses = [
     images: [
       "assets/Gabriella White/Gabriella White1.JPG",
       "assets/Gabriella White/Gabriella White2.JPG",
-      "assets/Gabriella White/Gabriella white3.JPG"
+      "assets/Gabriella White/Gabriella white3.JPG",
     ]
   },
   {
