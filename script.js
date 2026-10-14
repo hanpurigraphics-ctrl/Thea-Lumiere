@@ -1287,12 +1287,10 @@ const dresses = [
       "assets/Seraphina/Seraphina.WEBP",
       "assets/Seraphina/Seraphina2.WEBP",
       "assets/Seraphina/Seraphina3.WEBP",
-      "assets/Seraphina/Seraphina4.WEBP",
-   
+      "assets/Seraphina/Seraphina4.WEBP"
     ]
-  },
-  
-  {
+  }
+ , {
     id: 55,
     name: "Serena Set",
     category: "Coordinates",
