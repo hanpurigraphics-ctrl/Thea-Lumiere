@@ -755,7 +755,7 @@ const dresses = [
     ]
   },
   {
-    id: 91,
+    id: 321,
     name: "Krishna",
     category: "Cocktail",
     color: "Black",
@@ -1274,7 +1274,7 @@ const dresses = [
       "assets/Sephora/Sephora1.JPG",
       "assets/Sephora/Sephora2.JPG",
     ]
-  } ,{
+  }, {
     id: 200,
     name: "Seraphina",
     category: "Cocktail",
@@ -1290,7 +1290,7 @@ const dresses = [
       "assets/Seraphina/Seraphina4.WEBP"
     ]
   }
- , {
+  , {
     id: 55,
     name: "Serena Set",
     category: "Coordinates",
