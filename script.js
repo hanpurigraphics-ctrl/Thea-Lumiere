@@ -95,8 +95,8 @@ const dresses = [
   {
     id: 72,
     name: "Britanny Red",
-    category: "Red",
-    color: "Floral",
+    category: "Long Dress",
+    color: "Red",
     sizes: "XS - S",
     price: "₱600/3 Days rental",
     tag: "New",
@@ -109,7 +109,7 @@ const dresses = [
   {
     id: 73,
     name: "Catriona",
-    category: "Long Dress",
+    category: "Cocktail",
     color: "Velvet",
     sizes: "M - Semi Large",
     price: "₱850 /3 Days rental",
@@ -160,7 +160,7 @@ const dresses = [
   {
     id: 7,
     name: "Celine",
-    category: "Coordinates",
+    category: "",
     color: "White",
     sizes: "M - Semi Large",
     price: "₱450 /3 Days rental",
@@ -249,7 +249,7 @@ const dresses = [
   {
     id: 77,
     name: "Chevery",
-    category: "Coordinates",
+    category: "Cocktail",
     color: "Green",
     sizes: "xs - S",
     price: "₱500 /3 Days rental",
@@ -264,7 +264,7 @@ const dresses = [
   {
     id: 78,
     name: "Chielo",
-    category: "Coordinates",
+    category: "Long Dress",
     color: "Pink",
     sizes: "xs - S",
     price: "₱550 /3 Days rental",
@@ -326,7 +326,7 @@ const dresses = [
   {
     id: 13,
     name: "Daisy Belle",
-    category: "Coordinates",
+    category: "Long Dress",
     color: "Yellow",
     sizes: "M - L",
     price: "₱150 /3 Days rental",
@@ -399,7 +399,7 @@ const dresses = [
   {
     id: 80,
     name: "Febie",
-    category: "Cocktail",
+    category: "Long Dress",
     color: "Brown",
     sizes: "XL",
     price: "₱500 /3 Days rental",
@@ -474,7 +474,7 @@ const dresses = [
   {
     id: 81,
     name: "Glorie Brown",
-    category: "Coordinates",
+    category: "Long Dress",
     color: "Brown",
     sizes: "XL",
     price: "₱550 /3 Days rental",
@@ -489,7 +489,7 @@ const dresses = [
   {
     id: 81,
     name: "Glorie Maroon>",
-    category: "Coordinates",
+    category: "Long Dress",
     color: "Brown",
     sizes: "XL",
     price: "₱550 /3 Days rental",
@@ -505,7 +505,7 @@ const dresses = [
   {
     id: 83,
     name: "Grace",
-    category: "Cocktail",
+    category: "Long Dress",
     color: "White",
     sizes: "Xl",
     price: "₱550 /3 Days rental",
@@ -581,7 +581,7 @@ const dresses = [
   {
     id: 20,
     name: "Jasmin",
-    category: "Coordinates",
+    category: "Long Dress",
     color: "Floral",
     sizes: "M",
     price: "₱450 /3 Days rental",
@@ -595,7 +595,7 @@ const dresses = [
   {
     id: 86,
     name: "Jella",
-    category: "Coordinates",
+    category: "Cocktail",
     color: "",
     sizes: "M - L",
     price: "₱1,000 /3 Days rental",
@@ -623,7 +623,7 @@ const dresses = [
   {
     id: 87,
     name: "Joy",
-    category: "Coordinates",
+    category: "Long Dress",
     color: "",
     sizes: "XL",
     price: "550 /3 Days rental",
@@ -637,7 +637,7 @@ const dresses = [
   {
     id: 22,
     name: "Julia White",
-    category: "Coordinates",
+    category: "Long Dress",
     color: " White",
     sizes: "M - L",
     price: "550 /3 Days rental",
@@ -652,7 +652,7 @@ const dresses = [
   {
     id: 89,
     name: "Julia Blue",
-    category: "Coordinates",
+    category: "Long Dress",
     color: "Blue",
     sizes: "M - L",
     price: "600 /3 Days rental",
@@ -667,7 +667,7 @@ const dresses = [
   {
     id: 90,
     name: "Julia Pink",
-    category: "Coordinates",
+    category: "Long Dress",
     color: "Pink",
     sizes: "S - Semi Medium",
     price: "600 /3 Days rental",
@@ -743,7 +743,7 @@ const dresses = [
   {
     id: 91,
     name: "Kendra",
-    category: "Long Dress",
+    category: "Cocktail",
     color: "White , Pink",
     sizes: "Small -Semi M",
     price: "550 /3 Days rental",
@@ -757,7 +757,7 @@ const dresses = [
   {
     id: 91,
     name: "Krishna",
-    category: "Long Dress",
+    category: "Cocktail",
     color: "White , Pink",
     sizes: "XL",
     price: "500 /3 Days rental",
@@ -968,7 +968,7 @@ const dresses = [
   {
     id: 40,
     name: "Mika White",
-    category: "CoLong Dressordinates",
+    category: "Long Dressordinates",
     color: "White",
     sizes: "L",
     price: "600 /3 Days rental",
@@ -997,7 +997,7 @@ const dresses = [
   {
     id: 41,
     name: "Neriel",
-    category: "Coordinates",
+    category: "Long Dress",
     color: "Red",
     sizes: "M - Semi Large",
     price: "150 /3 Days rental",
@@ -1063,7 +1063,7 @@ const dresses = [
   {
     id: 45,
     name: "Riana",
-    category: "Coordinates",
+    category: "Long Dress",
     color: "Pearl",
     sizes: "M",
     price: "150 /3 Days rental",
@@ -1089,7 +1089,7 @@ const dresses = [
   {
     id: 47,
     name: "Riana",
-    category: "Coordinates",
+    category: "Cocktail",
     color: "Yellow",
     sizes: "S",
     price: "200 /3 Days rental",
@@ -1102,7 +1102,7 @@ const dresses = [
   {
     id: 48,
     name: "Zara",
-    category: "Coordinates",
+    category: "Cocktail",
     color: "Red",
     sizes: "S",
     price: "200 /3 Days rental",
@@ -1116,7 +1116,7 @@ const dresses = [
   {
     id: 93,
     name: "Pia Black",
-    category: "Coordinates",
+    category: "Cocktail",
     color: "Red",
     sizes: "Small - Semi M",
     price: "350/3 Days rental",
@@ -1132,7 +1132,7 @@ const dresses = [
   {
     id: 49,
     name: "Pia Red",
-    category: "Coordinates",
+    category: "Cocktail",
     color: "Red",
     sizes: "M",
     price: "350/3 Days rental",
@@ -1145,7 +1145,7 @@ const dresses = [
   {
     id: 94,
     name: "Pia White",
-    category: "Coordinates",
+    category: "Cocktail",
     color: "White",
     sizes: "S-M",
     price: "350/3 Days rental",
@@ -1161,7 +1161,7 @@ const dresses = [
   {
     id: 50,
     name: "Rosalie",
-    category: "Coordinates",
+    category: "Long Dress",
     color: "",
     sizes: "XS - S",
     price: "150/3 Days rental",
@@ -1173,7 +1173,7 @@ const dresses = [
   {
     id: 96,
     name: "Rose",
-    category: "Coordinates",
+    category: "Long Dress",
     color: "",
     sizes: "XL",
     price: "550/3 Days rental",
@@ -1264,7 +1264,7 @@ const dresses = [
   {
     id: 54,
     name: "Sephora",
-    category: "Cocktail",
+    category: "Long Dress",
     color: "Red",
     sizes: "M",
     price: "450/3 Days rental",
