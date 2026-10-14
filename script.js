@@ -1291,7 +1291,7 @@ const dresses = [
    
     ]
   },
-  ,
+  
   {
     id: 55,
     name: "Serena Set",
@@ -1309,7 +1309,7 @@ const dresses = [
   {
     id: 102,
     name: "Solenn",
-    category: "Coordinates",
+    category: "Cocktail",
     color: "Blue",
     sizes: "S - Semi Medium",
     price: "550/3 Days rental",
@@ -1325,7 +1325,7 @@ const dresses = [
   {
     id: 56,
     name: "Sofia",
-    category: "Cocktail",
+    category: "Long Dress",
     color: "Red",
     sizes: "S - Semi M",
     price: "200/3 Days rental",
@@ -1341,7 +1341,7 @@ const dresses = [
   {
     id: 57,
     name: "Stella",
-    category: "Cocktail",
+    category: "Long Dress",
     color: "Yellow",
     sizes: "S - M",
     price: "250/3 Days rental",
