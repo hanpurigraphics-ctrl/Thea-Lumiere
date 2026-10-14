@@ -814,7 +814,7 @@ const dresses = [
   }, {
     id: 30,
     name: "Lumi",
-    category: "Coordinates",
+    category: "Cocktail",
     color: "Pink",
     sizes: "M - L",
     price: "550 /3 Days rental",
@@ -860,7 +860,7 @@ const dresses = [
   {
     id: 32,
     name: "Merdissa",
-    category: "Coordinates",
+    category: "Cocktail",
     color: "Black",
     sizes: "M",
     price: "200 /3 Days rental",
@@ -889,7 +889,7 @@ const dresses = [
   , {
     id: 34,
     name: "Merviella Black",
-    category: "Coordinates",
+    category: "Long Dress",
     color: "Black",
     sizes: "S - M",
     price: "550 /3 Days rental",
@@ -904,7 +904,7 @@ const dresses = [
   {
     id: 37,
     name: "Merviella Green",
-    category: "Coordinates",
+    category: "Long Dress",
     color: "Green",
     sizes: "XL",
     price: "550 /3 Days rental",
@@ -917,7 +917,7 @@ const dresses = [
   {
     id: 35,
     name: "Merviella Pink",
-    category: "Coordinates",
+    category: "Long Dress",
     color: "Pink",
     sizes: "L",
     price: "550 /3 Days rental",
@@ -930,7 +930,7 @@ const dresses = [
   {
     id: 36,
     name: "Merviella Red",
-    category: "Coordinates",
+    category: "Long Dress",
     color: "Red",
     sizes: "S - M",
     price: "550 /3 Days rental",
@@ -1025,7 +1025,7 @@ const dresses = [
   {
     id: 42,
     name: "Olivia",
-    category: "Coordinates",
+    category: "Long Dress",
     color: "",
     sizes: "M - L",
     price: "550 /3 Days rental",
@@ -1037,7 +1037,7 @@ const dresses = [
   {
     id: 43,
     name: "Luna",
-    category: "Coordinates",
+    category: "Cocktail",
     color: "",
     sizes: "S",
     price: "150 /3 Days rental",
@@ -1050,7 +1050,7 @@ const dresses = [
   {
     id: 44,
     name: "Leila",
-    category: "Coordinates",
+    category: "Cocktail",
     color: "Shades of Brown",
     sizes: "S",
     price: "150 /3 Days rental",
@@ -1076,7 +1076,7 @@ const dresses = [
   {
     id: 46,
     name: "Riana",
-    category: "Coordinates",
+    category: "Cocktail",
     color: "Green",
     sizes: "S",
     price: "200 /3 Days rental",
