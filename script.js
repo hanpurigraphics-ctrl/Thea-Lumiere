@@ -1430,7 +1430,7 @@ const dresses = [
     category: "Cocktail",
     color: "Red",
     sizes: "XS - S ",
-    price: "300/3 Days rental",
+    price: "400/3 Days rental",
     tag: "New",
     description: "",
     images: [
