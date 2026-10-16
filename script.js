@@ -397,6 +397,21 @@ const dresses = [
     ]
   },
   {
+    id: 139,
+    name: "Emmanuella",
+    category: "Cocktail",
+    color: "Maroon",
+    sizes: "Small",
+    price: "₱350 /3 Days rental",
+    tag: "New",
+    description: "",
+    images: [
+      "assets/Emmanuella/Emmanuella2.JPG",
+      "assets/Emmanuella/Emmanuella.JPG",
+       "assets/Emmanuella/Emmanuella3.JPG"
+    ]
+  },
+  {
     id: 80,
     name: "Febie",
     category: "Long Dress",
@@ -408,6 +423,38 @@ const dresses = [
     images: [
       "assets/Febie/Febie.JPG",
       "assets/Febie/Febie.WEBP"
+    ]
+  },
+  
+  {
+    id: 330,
+    name: "Felina Green",
+    category: "Long Dress",
+    color: "Green",
+    sizes: "Large",
+    price: "₱650 /3 Days rental",
+    tag: "New",
+    description: "",
+    images: [
+      "assets/Felina Green/Felina Green.webp",
+      "assets/Felina Green/Felina Green2.webp",
+      "assets/Felina Green/Felina Green3.webp",
+      "assets/Felina Green/Felina Green4.webp",
+    ]
+  },
+   {
+    id: 150,
+    name: "Felina Pink",
+    category: "Long Dress",
+    color: "Green",
+    sizes: "S - M",
+    price: "₱650 /3 Days rental",
+    tag: "New",
+    description: "",
+    images: [
+      "assets/Felina Pink/Felina Pink.JPG",
+      "assets/Felina Pink/Felina Pink2.webp",
+      "assets/Felina Pink/Felina Pink.webp",
     ]
   },
   {
@@ -469,6 +516,21 @@ const dresses = [
       "assets/Gabriella White/Gabriella White1.JPG",
       "assets/Gabriella White/Gabriella White2.JPG",
       "assets/Gabriella White/Gabriella white3.JPG",
+    ]
+  },
+  {
+    id: 137,
+    name: "Gabriella Red",
+    category: "Long Dress",
+    color: "Black",
+    sizes: "M - L",
+    price: "₱500 /3 Days rental",
+    tag: "New",
+    description: "",
+    images: [
+      "assets/Gabriella Red/Gabriella Red.WEBP",
+      "assets/Gabriella Red/Gabriella Red2.WEBP",
+      "assets/Gabriella Red/Gabriella Red3.WEBP",
     ]
   },
   {
