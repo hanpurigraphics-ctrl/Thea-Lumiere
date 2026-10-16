@@ -640,7 +640,7 @@ const dresses = [
     category: "Long Dress",
     color: " White",
     sizes: "M - L",
-    price: "550 /3 Days rental",
+    price: "600 /3 Days rental",
     tag: "New",
     description: "",
     images: [
@@ -1280,7 +1280,7 @@ const dresses = [
     category: "Cocktail",
     color: "",
     sizes: "XS - S",
-    price: "200/3 Days rental",
+    price: "550/3 Days rental",
     tag: "New",
     description: "",
     images: [
@@ -1326,7 +1326,7 @@ const dresses = [
     category: "Long Dress",
     color: "",
     sizes: "S - Semi M",
-    price: "200/3 Days rental",
+    price: "650/3 Days rental",
     tag: "New",
     description: "",
     images: [
