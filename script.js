@@ -1150,7 +1150,7 @@ const dresses = [
   },
   {
     id: 47,
-    name: "Riana",
+    name: "Dea",
     category: "Cocktail",
     color: "Yellow",
     sizes: "S",
@@ -1163,7 +1163,7 @@ const dresses = [
   },
   {
     id: 48,
-    name: "Zara",
+    name: "Eula",
     category: "Cocktail",
     color: "Red",
     sizes: "S",
