@@ -1,5 +1,22 @@
 const dresses = [
 
+  {
+    id: 550,
+    name: "Alessandra",
+    category: "Cocktail",
+    color: "Blush Pink",
+    sizes: "S - Semi Medium",
+    price: "₱550 /3 Days rental",
+    tag: "Featured",
+    images: [
+      "assets/Alessandra/Alessandra.WEBP",
+ "assets/Alessandra/Alessandra4.WEBP",
+  "assets/Alessandra/Alessandra2.WEBP",
+   "assets/Alessandra/Alessandra3.WEBP",
+    "assets/Alessandra/Alessandra5.WEBP",
+    ]
+  },
+
 
   {
     id: 1,
@@ -36,7 +53,7 @@ const dresses = [
     category: "Long Dress",
     color: "Blue",
     sizes: "Medium",
-    price: "₱200 /3 Days rental",
+    price: "₱250 /3 Days rental",
     tag: "Popular",
     images: [
       "assets/Andrea/andrea_01.JPG"
@@ -124,7 +141,23 @@ const dresses = [
 
     ]
   },
+ {
+    id: 551,
+    name: "Celestine Black",
+    category: "Long Dress",
+    color: "Black",
+    sizes: "S · M",
+    price: "₱600 /3 Days rental",
+    tag: "New",
+    description: "",
+    images: [
 
+    "assets/Celestine Black/Celestine Black.WEBP", 
+    "assets/Celestine Black/Celestine Black2.WEBP", 
+     "assets/Celestine Black/Celestine Black3.WEBP", 
+     "assets/Celestine Black/Celestine Black4.WEBP",     
+    ]
+  },
 
   {
     id: 6,
@@ -140,6 +173,7 @@ const dresses = [
       "assets/Celestine/Celstine01.PNG", "assets/Celestine/Celstine02.PNG"
     ]
   },
+ 
 
   {
     id: 74,
@@ -365,6 +399,39 @@ const dresses = [
       "assets/Daniella/Daniella02.JPG"
     ],
   },
+   {
+    id: 552,
+    name: "Eleanor",
+    category: "Cocktail ",
+    color: "Red",
+    sizes: "XS - S",
+    price: "₱400 /3 Days rental",
+    tag: "New",
+    description: "",
+    images: [
+      "assets/Eleanor/Eleanor3.WEBP",
+      "assets/Eleanor/Eleanor2.WEBP",
+      "assets/Eleanor/Eleanor.WEBP",
+    ],
+  },
+  {
+    id: 553,
+    name: "Elena",
+    category: "Cocktail ",
+    color: "White",
+    sizes: "L - XL",
+    price: "650 /3 Days rental",
+    tag: "New",
+    description: "",
+    images: [
+      "assets/Elena/Elena2.jpeg",
+      "assets/Elena/Elena3.jpeg",
+      "assets/Elena/Elena4.jpeg",
+      "assets/Elena/Elena5.jpeg",
+      "assets/Elena/Elena6.jpeg",
+    ],
+  },
+  
   {
     id: 79,
     name: "Elise",
@@ -457,6 +524,21 @@ const dresses = [
       "assets/Felina Pink/Felina Pink.webp",
     ]
   },
+   {
+    id: 454,
+    name: "Felina Red",
+    category: "Long Dress",
+    color: "Red",
+    sizes: "L",
+    price: "₱650 /3 Days rental",
+    tag: "New",
+    description: "",
+    images: [
+      "assets/Felina Red/Felina Red.JPG",
+"assets/Felina Red/Felina Red2.JPG",
+"assets/Felina Red/Felina Red3.JPG",
+    ]
+  },
   {
     id: 118,
     name: "Flora",
@@ -516,6 +598,25 @@ const dresses = [
       "assets/Gabriella White/Gabriella White1.JPG",
       "assets/Gabriella White/Gabriella White2.JPG",
       "assets/Gabriella White/Gabriella white3.JPG",
+    ]
+  },
+  {
+    id: 455 ,
+    name: "Gehlee",
+    category: "Long Dress",
+    color: "",
+    sizes: "S - M",
+    price: "₱600 /3 Days rental",
+    tag: "New",
+    description: "",
+    images: [
+      "assets/Gehlee/Gehlee.JPG",
+         "assets/Gehlee/Gehlee3.JPG",
+      "assets/Gehlee/Gehlee2.JPG",
+      "assets/Gehlee/Gehlee5.JPG",
+      "assets/Gehlee/Gehlee4.JPG",
+      "assets/Gehlee/Gehlee6.JPG",
+
     ]
   },
   {
@@ -607,7 +708,25 @@ const dresses = [
       "assets/Honey Yellow/Honey Yellow3.webp",
     ]
   },
+ {
+    id: 457,
+    name: "Iris",
+    category: "Long Dress",
+    color: "",
+    sizes: "S - M",
+    price: "₱600 /3 Days rental",
+    tag: "New",
+    description: "",
+    images: [
+      "assets/Iris/Iris.jpeg",
+            "assets/Iris/Iris2.jpeg",
+      "assets/Iris/Iris3.jpeg",
+      "assets/Iris/Iris4.jpeg",
+      "assets/Iris/Iris5.jpeg",
 
+   
+    ]
+  },
   {
     id: 120,
     name: "Honey White",
@@ -667,6 +786,21 @@ const dresses = [
       "assets/Jella/Jella3.PNG",
       "assets/Jella/Jella.PNG",
       "assets/Jella/Jella2.PNG",
+    ]
+  },
+   {
+    id: 459,
+    name: "Jennifer",
+    category: "Long Dress",
+    color: "",
+    sizes: "1xl- 2xL",
+    price: "₱550 /3 Days rental",
+    tag: "New",
+    description: "",
+    images: [
+      "assets/Jennifer/Jennifer.PNG",
+         "assets/Jennifer/Jennifer2.PNG",
+
     ]
   },
   {
@@ -848,6 +982,41 @@ const dresses = [
     ]
   },
   {
+    id: 27,
+    name: "Leonida Black",
+    category: "Long Dress",
+    color: "White",
+    sizes: "L",
+    price: "550 /3 Days rental",
+    tag: "New",
+    description: "",
+    images: [
+      "assets/Leonida Black/Leonida Black.jpeg",
+      "assets/Leonida Black/Leonida2 Black.jpeg",
+      "assets/Leonida Black/Leonida3 Black.jpeg",
+      "assets/Leonida Black/Leonida4 Black.jpeg",
+      "assets/Leonida Black/Leonida5 Black.jpeg"
+    ]
+  },
+  {
+    id: 470,
+    name: "Lily",
+    category: "Coordinates",
+    color: "Floral",
+    sizes: "S - M",
+    price: "600 /3 Days rental",
+    tag: "New",
+    description: "",
+    images: [
+      "assets/Lily/Lily.jpeg",
+      "assets/Lily/Lily2.jpeg",
+      "assets/Lily/Lily3.jpeg",
+      "assets/Lily/Lily4.jpeg",
+      "assets/Lily/Lily5.jpeg",
+
+    ]
+  },
+  {
     id: 28,
     name: "Liora Set",
     category: "Coordinates",
@@ -860,7 +1029,8 @@ const dresses = [
       "assets/Liora Set/Liora Set.JPG",
       "assets/Liora Set/Liora Set1.JPG",
     ]
-  }, {
+  }, 
+  {
     id: 29,
     name: "Liza",
     category: "Long Dress",
@@ -1057,6 +1227,44 @@ const dresses = [
 
   ,
   {
+    id: 170,
+    name: "Mika Pink",
+    category: "Long Dress",
+    color: "Pink ",
+    sizes: "M - L",
+    price: "600 /3 Days rental",
+    tag: "New",
+    description: "",
+    images: [
+      "assets/Mika Pink/Mika Pink.WEBP",
+    "assets/Mika Pink/Mika Pink2.WEBP",
+    "assets/Mika Pink/Mika Pink3.WEBP",
+    "assets/Mika Pink/Mika Pink4.WEBP",
+    ]
+  }
+
+  ,
+   {
+    id: 171,
+    name: "Mika Red",
+    category: "Long Dress",
+    color: "Pink ",
+    sizes: "M - L",
+    price: "600 /3 Days rental",
+    tag: "New",
+    description: "",
+    images: [
+      "assets/Mika Red/Mika Red.JPG",
+            "assets/Mika Red/Mika Red2.JPG",
+                  "assets/Mika Red/Mika Red3.JPG",
+      "assets/Mika Red/Mika Red4.JPG",
+
+
+    ]
+  }
+
+  ,
+  {
     id: 41,
     name: "Neriel",
     category: "Long Dress",
@@ -1141,7 +1349,7 @@ const dresses = [
     category: "Cocktail",
     color: "Green",
     sizes: "S",
-    price: "200 /3 Days rental",
+    price: "250 /3 Days rental",
     tag: "New",
     description: "",
     images: [
@@ -1181,7 +1389,7 @@ const dresses = [
     category: "Cocktail",
     color: "Black",
     sizes: "Small - Semi M",
-    price: "350/3 Days rental",
+    price: "400/3 Days rental",
     tag: "New",
     description: "",
     images: [
@@ -1197,7 +1405,7 @@ const dresses = [
     category: "Cocktail",
     color: "Red",
     sizes: "M",
-    price: "350/3 Days rental",
+    price: "400/3 Days rental",
     tag: "New",
     description: "",
     images: [
@@ -1210,7 +1418,7 @@ const dresses = [
     category: "Cocktail",
     color: "White",
     sizes: "S-M",
-    price: "350/3 Days rental",
+    price: "400/3 Days rental",
     tag: "New",
     description: "",
     images: [
@@ -1220,6 +1428,38 @@ const dresses = [
       "assets/Pia White/Pia White3.webp",
     ]
   },
+
+  {
+    id: 599,
+    name: "Raven Black",
+    category: "Long Dress",
+    color: "Black",
+    sizes: "M- Semi Large",
+    price: "600/3 Days rental",
+    tag: "New",
+    description: "",
+    images: [
+      "assets/Raven Black/Raven Black.JPG",
+     
+    ]
+  },
+  {
+    id: 600,
+    name: "Raven Pink",
+    category: "Long Dress",
+    color: "Pink",
+    sizes: "S - M",
+    price: "600/3 Days rental",
+    tag: "New",
+    description: "",
+    images: [
+      "assets/Raven Pink/Raven Pink.JPG",
+      "assets/Raven Pink/Raven Pink2.JPG",
+      "assets/Raven Pink/Raven Pink.png",
+     
+    ]
+  },
+  
   {
     id: 50,
     name: "Rosalie",
