@@ -405,7 +405,7 @@ const dresses = [
     category: "Cocktail ",
     color: "Red",
     sizes: "XS - S",
-    price: "₱400 /3 Days rental",
+    price: "₱450 /3 Days rental",
     tag: "New",
     description: "",
     images: [
@@ -529,7 +529,7 @@ const dresses = [
     name: "Felina Red",
     category: "Long Dress",
     color: "Red",
-    sizes: "L",
+    sizes: "S - M",
     price: "₱650 /3 Days rental",
     tag: "New",
     description: "",
@@ -1072,23 +1072,7 @@ const dresses = [
       "assets/Mariestella/Mariestella3.JPG"
     ]
   },
-  {
-    id: 122,
-    name: "Mariestella Green",
-    category: "Long Dress",
-    color: "Blue",
-    sizes: "M - Semi large",
-    price: "550 /3 Days rental",
-    tag: "New",
-    description: "",
-    images: [
-      "assets/Mariestella Green/Mariestella Green.WEBP",
-      "assets/Mariestella Green/Mariestella Green2.WEBP",
-      "assets/Mariestella Green/Mariestella Green3.WEBP",
-      "assets/Mariestella Green/Mariestella Green4.WEBP"
-
-    ]
-  },
+ 
   {
     id: 32,
     name: "Merdissa",
