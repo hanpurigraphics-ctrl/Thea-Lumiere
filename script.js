@@ -982,7 +982,7 @@ const dresses = [
     ]
   },
   {
-    id: 27,
+    id: 1022,
     name: "Leonida Black",
     category: "Long Dress",
     color: "White",
